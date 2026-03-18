@@ -1,0 +1,1197 @@
+{
+  "about:global-counter-1:0:text": {
+    "original": " Venture capital raised ",
+    "value": " Venture capital raised ",
+    "_base_original": " Venture capital raised "
+  },
+  "about:global-counter-1:1:text": {
+    "original": " Established in ",
+    "value": " Established in ",
+    "_base_original": " Established in "
+  },
+  "about:global-counter-1:2:text": {
+    "original": " Amazing team members ",
+    "value": " Amazing team members ",
+    "_base_original": " Amazing team members "
+  },
+  "about:global-counter-1:3:text": {
+    "original": " Active users and growing ",
+    "value": " Active users and growing ",
+    "_base_original": " Active users and growing "
+  },
+  "about:global-counter-1:description": {
+    "original": "<p>We've built Sendit from the ground up the help grow your business faster.</p>\n",
+    "value": "<p>We've built Sendit from the ground up the help grow your business faster.</p>\n",
+    "_base_original": "<p>We've built Sendit from the ground up the help grow your business faster.</p>\n"
+  },
+  "about:global-counter-1:title": {
+    "original": "Built for your",
+    "value": "Built for your",
+    "_base_original": "Built for your"
+  },
+  "about:global-counter-1:title_suffix": {
+    "original": " Business ",
+    "value": " Business ",
+    "_base_original": " Business "
+  },
+  "about:global-hero-0:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
+  },
+  "about:global-hero-0:description": {
+    "original": "<p>We're here to breathe new air into email marketing and help grow your business.</p>\n",
+    "value": "<p>We're here to breathe new air into email marketing and help grow your business.</p>\n",
+    "_base_original": "<p>We're here to breathe new air into email marketing and help grow your business.</p>\n"
+  },
+  "about:global-hero-0:title": {
+    "original": " On a mission to change email marketing ",
+    "value": " On a mission to change email marketing ",
+    "_base_original": " On a mission to change email marketing "
+  },
+  "about:global-team-3:title": {
+    "original": " Our leadership team ",
+    "value": " Our leadership team ",
+    "_base_original": " Our leadership team "
+  },
+  "about:global-video-left-right-2:button_text": {
+    "original": "Follow on Linkedin",
+    "value": "Follow on Linkedin",
+    "_base_original": "Follow on Linkedin"
+  },
+  "about:global-video-left-right-2:description": {
+    "original": "<p>Our team has decades of experience working with email marketing campaigns and we’re passionate about helping you connect with your customers.</p>\n",
+    "value": "<p>Our team has decades of experience working with email marketing campaigns and we’re passionate about helping you connect with your customers.</p>\n",
+    "_base_original": "<p>Our team has decades of experience working with email marketing campaigns and we’re passionate about helping you connect with your customers.</p>\n"
+  },
+  "about:global-video-left-right-2:title": {
+    "original": " We love what we do ",
+    "value": " We love what we do ",
+    "_base_original": " We love what we do "
+  },
+  "about:global-video-left-right-2:video_player_title": {
+    "original": "Video Player",
+    "value": "Video Player",
+    "_base_original": "Video Player"
+  },
+  "blog-5-things-to-improve-your-email-templates:post:content": {
+    "original": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  ",
+    "value": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  ",
+    "_base_original": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  "
+  },
+  "blog-5-things-to-improve-your-email-templates:post:minutes": {
+    "original": "minutes",
+    "value": "minutes",
+    "_base_original": "minutes"
+  },
+  "blog-5-things-to-improve-your-email-templates:post:title": {
+    "original": " 5 things to improve your email templates ",
+    "value": " 5 things to improve your email templates ",
+    "_base_original": " 5 things to improve your email templates "
+  },
+  "blog-5-things-to-improve-your-email-templates:post:words": {
+    "original": "words",
+    "value": "words",
+    "_base_original": "words"
+  },
+  "blog-5-things-to-improve-your-email-templates:recent:post-5-things-to-improve-your-email-templates:title": {
+    "original": "5 things to improve your email templates",
+    "value": "5 things to improve your email templates",
+    "_base_original": "5 things to improve your email templates"
+  },
+  "blog-5-things-to-improve-your-email-templates:recent:post-7-things-you-didnt-know-about-email:title": {
+    "original": "7 things you didn't know about email",
+    "value": "7 things you didn't know about email",
+    "_base_original": "7 things you didn't know about email"
+  },
+  "blog-5-things-to-improve-your-email-templates:recent:post-best-email-sending-services:title": {
+    "original": "Best email sending services",
+    "value": "Best email sending services",
+    "_base_original": "Best email sending services"
+  },
+  "blog-7-things-you-didnt-know-about-email:post:content": {
+    "original": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  ",
+    "value": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  ",
+    "_base_original": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  "
+  },
+  "blog-7-things-you-didnt-know-about-email:post:minutes": {
+    "original": "minutes",
+    "value": "minutes",
+    "_base_original": "minutes"
+  },
+  "blog-7-things-you-didnt-know-about-email:post:title": {
+    "original": " 7 things you didn't know about email ",
+    "value": " 7 things you didn't know about email ",
+    "_base_original": " 7 things you didn't know about email "
+  },
+  "blog-7-things-you-didnt-know-about-email:post:words": {
+    "original": "words",
+    "value": "words",
+    "_base_original": "words"
+  },
+  "blog-7-things-you-didnt-know-about-email:recent:post-5-things-to-improve-your-email-templates:title": {
+    "original": "5 things to improve your email templates",
+    "value": "5 things to improve your email templates",
+    "_base_original": "5 things to improve your email templates"
+  },
+  "blog-7-things-you-didnt-know-about-email:recent:post-7-things-you-didnt-know-about-email:title": {
+    "original": "7 things you didn't know about email",
+    "value": "7 things you didn't know about email",
+    "_base_original": "7 things you didn't know about email"
+  },
+  "blog-7-things-you-didnt-know-about-email:recent:post-best-email-sending-services:title": {
+    "original": "Best email sending services",
+    "value": "Best email sending services",
+    "_base_original": "Best email sending services"
+  },
+  "blog-best-email-sending-services:post:content": {
+    "original": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  ",
+    "value": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  ",
+    "_base_original": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  "
+  },
+  "blog-best-email-sending-services:post:minutes": {
+    "original": "minutes",
+    "value": "minutes",
+    "_base_original": "minutes"
+  },
+  "blog-best-email-sending-services:post:title": {
+    "original": " Best email sending services ",
+    "value": " Best email sending services ",
+    "_base_original": " Best email sending services "
+  },
+  "blog-best-email-sending-services:post:words": {
+    "original": "words",
+    "value": "words",
+    "_base_original": "words"
+  },
+  "blog-best-email-sending-services:recent:post-5-things-to-improve-your-email-templates:title": {
+    "original": "5 things to improve your email templates",
+    "value": "5 things to improve your email templates",
+    "_base_original": "5 things to improve your email templates"
+  },
+  "blog-best-email-sending-services:recent:post-7-things-you-didnt-know-about-email:title": {
+    "original": "7 things you didn't know about email",
+    "value": "7 things you didn't know about email",
+    "_base_original": "7 things you didn't know about email"
+  },
+  "blog-best-email-sending-services:recent:post-best-email-sending-services:title": {
+    "original": "Best email sending services",
+    "value": "Best email sending services",
+    "_base_original": "Best email sending services"
+  },
+  "blog-blog-showcase:post:content": {
+    "original": "  <p>Welcome to the <strong>most comprehensive markdown styling guide</strong> you’ve ever seen for email campaigns! Whether you’re crafting your first newsletter or you’re a seasoned email veteran, this post showcases <em>every single markdown element</em> you can use to make your emails pop.</p>\n<h2 id=\"why-markdown-matters-for-email\">Why Markdown Matters for Email 📧</h2>\n<p>Before we dive into the formatting feast, let’s talk about why markdown is your secret weapon for creating stunning email campaigns. With markdown, you can focus on <strong>content first, formatting second</strong>—and that’s exactly how it should be!</p>\n<hr>\n<h2 id=\"headings-the-hierarchy-heroes\">Headings: The Hierarchy Heroes</h2>\n<h1 id=\"h1-the-big-kahuna-headline\">H1: The Big Kahuna Headline</h1>\n<h2 id=\"h2-section-splendor\">H2: Section Splendor</h2>\n<h3 id=\"h3-subsection-sensation\">H3: Subsection Sensation</h3>\n<h4 id=\"h4-detail-dynamo\">H4: Detail Dynamo</h4>\n<h5 id=\"h5-tiny-but-mighty\">H5: Tiny but Mighty</h5>\n<h6 id=\"h6-the-smallest-star\">H6: The Smallest Star</h6>\n<p><strong>Pro tip:</strong> Use H1 sparingly (usually just once for your main title), and structure your content with H2-H3 for maximum readability!</p>\n<hr>\n<h2 id=\"text-formatting-the-style-squad\">Text Formatting: The Style Squad</h2>\n<p>Here’s where things get <em>really</em> interesting. Let’s explore all the ways you can emphasize your text:</p>\n<p><strong>Bold text</strong> makes your key points impossible to miss—perfect for those crucial call-to-action phrases like “<strong>Limited Time Offer</strong>” or “<strong>Subscribe Now</strong>”.</p>\n<p><em>Italic text</em> adds subtle emphasis and works beautifully for introducing new terms or creating a conversational tone.</p>\n<p><em><strong>Bold and italic together</strong></em> is the nuclear option—use it when you absolutely, positively need maximum emphasis (but use it sparingly, or it loses its power).</p>\n<p><del>Strikethrough text</del> is perfect for showing old prices: <del>$99/month</del> <strong>$49/month</strong> (now THAT’S a deal!).</p>\n<p>You can also use <code>inline code</code> for technical terms like <code>SMTP server</code> or <code>API key</code>—it makes them stand out and look professional.</p>\n<hr>\n<h2 id=\"lists-the-organization-overlords\">Lists: The Organization Overlords</h2>\n<h3 id=\"unordered-lists-aka-bullet-points\">Unordered Lists (aka Bullet Points)</h3>\n<p>When you’re listing benefits, features, or ideas, bullets are your best friend:</p>\n<ul>\n<li><strong>Instant delivery</strong> - Your emails arrive in milliseconds</li>\n<li><strong>99.9% uptime</strong> - We’re always here when you need us</li>\n<li><strong>Unlimited subscribers</strong> - Grow your list without limits</li>\n<li><strong>Advanced analytics</strong> - Track every click, open, and conversion\n<ul>\n<li>Click-through rates</li>\n<li>Geographic data</li>\n<li>Device breakdown</li>\n<li>Time-based engagement</li>\n</ul>\n</li>\n</ul>\n<h3 id=\"ordered-lists-aka-numbered-lists\">Ordered Lists (aka Numbered Lists)</h3>\n<p>Perfect for step-by-step instructions or rankings:</p>\n<ol>\n<li><strong>Sign up</strong> for your free account (takes 30 seconds!)</li>\n<li><strong>Import your contacts</strong> via CSV or API</li>\n<li><strong>Design your template</strong> using our drag-and-drop editor</li>\n<li><strong>Send your campaign</strong> to thousands with one click</li>\n<li><strong>Analyze the results</strong> and optimize for next time</li>\n</ol>\n<h3 id=\"mixed-lists-the-best-of-both-worlds\">Mixed Lists: The Best of Both Worlds</h3>\n<ol>\n<li><strong>Breakfast emails</strong> - Morning motivation series\n<ul>\n<li>Monday: “Rise and Shine” tips</li>\n<li>Wednesday: Mid-week momentum</li>\n<li>Friday: Weekend preview</li>\n</ul>\n</li>\n<li><strong>Lunch-time links</strong> - Curated content digest\n<ul>\n<li>Industry news</li>\n<li>Trending topics</li>\n<li>Exclusive offers</li>\n</ul>\n</li>\n<li><strong>Evening engagement</strong> - Wrap-up newsletters</li>\n</ol>\n<hr>\n<h2 id=\"links-and-navigation\">Links and Navigation</h2>\n<p>Links are the lifeblood of email marketing. Here’s how to create them effectively:</p>\n<p><a href=\"https://example.com\">Visit our homepage</a> to learn more about our services.</p>\n<p><a href=\"https://example.com/signup\">Get started with your free trial today</a> and send your first 10,000 emails on us!</p>\n<p>You can also use reference-style links for cleaner markdown:</p>\n<p>Check out our <a href=\"https://example.com/guide\">Email Delivery Guide</a> for advanced tips, or read our <a href=\"https://example.com/practices\">Best Practices</a> article for beginners.</p>\n<p><strong>Pro tip:</strong> Always use descriptive link text. Instead of “click here”, say “download the free template” or “view the full report”.</p>\n<hr>\n<h2 id=\"blockquotes-highlighting-wisdom\">Blockquotes: Highlighting Wisdom</h2>\n<blockquote>\n<p>“Since switching to this email service, our open rates have increased by 300% and our customer engagement has never been higher. It’s like magic, but better—it’s data-driven magic!”</p>\n<p>— Sarah Johnson, Marketing Director at TechCorp</p>\n</blockquote>\n<p>Blockquotes are perfect for:</p>\n<ul>\n<li>Customer testimonials (like above)</li>\n<li>Key statistics or findings</li>\n<li>Inspirational quotes</li>\n<li>Important warnings or notes</li>\n</ul>\n<blockquote>\n<p><strong>Important Note:</strong> Always test your emails on multiple devices before sending to your entire list. What looks perfect on desktop might need tweaking on mobile!</p>\n</blockquote>\n<hr>\n<h2 id=\"code-blocks-for-the-technical-crowd\">Code Blocks: For the Technical Crowd</h2>\n<p>Sometimes you need to share code snippets, API examples, or configuration settings. Here’s how:</p>\n<h3 id=\"inline-code\">Inline Code</h3>\n<p>Use the <code>Content-Type: text/html</code> header for HTML emails, or configure your <code>smtp_server</code> settings in the dashboard.</p>\n<h3 id=\"fenced-code-blocks\">Fenced Code Blocks</h3>\n<pre class=\"astro-code github-dark\" data-language=\"javascript\" style=\"background-color:#24292e;color:#e1e4e8; overflow-x: auto;\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#6A737D\">// Example: Send an email via our API</span></span>\n<span class=\"line\"><span style=\"color:#F97583\">const</span><span style=\"color:#B392F0\"> sendEmail</span><span style=\"color:#F97583\"> =</span><span style=\"color:#F97583\"> async</span><span style=\"color:#E1E4E8\"> () </span><span style=\"color:#F97583\">=&gt;</span><span style=\"color:#E1E4E8\"> {</span></span>\n<span class=\"line\"><span style=\"color:#F97583\">  const</span><span style=\"color:#79B8FF\"> response</span><span style=\"color:#F97583\"> =</span><span style=\"color:#F97583\"> await</span><span style=\"color:#B392F0\"> fetch</span><span style=\"color:#E1E4E8\">(</span><span style=\"color:#9ECBFF\">\"https://api.example.com/send\"</span><span style=\"color:#E1E4E8\">, {</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    method: </span><span style=\"color:#9ECBFF\">\"POST\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    headers: {</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">      Authorization: </span><span style=\"color:#9ECBFF\">\"Bearer YOUR_API_KEY\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">      \"Content-Type\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"application/json\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    },</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    body: </span><span style=\"color:#79B8FF\">JSON</span><span style=\"color:#E1E4E8\">.</span><span style=\"color:#B392F0\">stringify</span><span style=\"color:#E1E4E8\">({</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">      to: </span><span style=\"color:#9ECBFF\">\"customer@example.com\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">      subject: </span><span style=\"color:#9ECBFF\">\"Welcome to Our Newsletter!\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">      html: </span><span style=\"color:#9ECBFF\">\"&lt;h1&gt;Hello, World!&lt;/h1&gt;\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    }),</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">  });</span></span>\n<span class=\"line\"><span style=\"color:#F97583\">  return</span><span style=\"color:#E1E4E8\"> response.</span><span style=\"color:#B392F0\">json</span><span style=\"color:#E1E4E8\">();</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">};</span></span></code></pre>\n<pre class=\"astro-code github-dark\" data-language=\"python\" style=\"background-color:#24292e;color:#e1e4e8; overflow-x: auto;\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#6A737D\"># Python example: Bulk email sender</span></span>\n<span class=\"line\"><span style=\"color:#F97583\">import</span><span style=\"color:#E1E4E8\"> requests</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#F97583\">def</span><span style=\"color:#B392F0\"> send_bulk_email</span><span style=\"color:#E1E4E8\">(recipients, subject, body):</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">    \"\"\"Send email to multiple recipients\"\"\"</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    api_url </span><span style=\"color:#F97583\">=</span><span style=\"color:#9ECBFF\"> \"https://api.example.com/bulk-send\"</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    headers </span><span style=\"color:#F97583\">=</span><span style=\"color:#E1E4E8\"> {</span><span style=\"color:#9ECBFF\">\"Authorization\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"Bearer YOUR_API_KEY\"</span><span style=\"color:#E1E4E8\">}</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    payload </span><span style=\"color:#F97583\">=</span><span style=\"color:#E1E4E8\"> {</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">        \"recipients\"</span><span style=\"color:#E1E4E8\">: recipients,</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">        \"subject\"</span><span style=\"color:#E1E4E8\">: subject,</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">        \"html_body\"</span><span style=\"color:#E1E4E8\">: body,</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">        \"track_opens\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#79B8FF\">True</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">        \"track_clicks\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#79B8FF\">True</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    }</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    response </span><span style=\"color:#F97583\">=</span><span style=\"color:#E1E4E8\"> requests.post(api_url, </span><span style=\"color:#FFAB70\">json</span><span style=\"color:#F97583\">=</span><span style=\"color:#E1E4E8\">payload, </span><span style=\"color:#FFAB70\">headers</span><span style=\"color:#F97583\">=</span><span style=\"color:#E1E4E8\">headers)</span></span>\n<span class=\"line\"><span style=\"color:#F97583\">    return</span><span style=\"color:#E1E4E8\"> response.json()</span></span></code></pre>\n<pre class=\"astro-code github-dark\" data-language=\"json\" style=\"background-color:#24292e;color:#e1e4e8; overflow-x: auto;\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#E1E4E8\">{</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">  \"email\"</span><span style=\"color:#E1E4E8\">: {</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">    \"from\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"hello@yourbrand.com\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">    \"to\"</span><span style=\"color:#E1E4E8\">: [</span><span style=\"color:#9ECBFF\">\"subscriber@example.com\"</span><span style=\"color:#E1E4E8\">],</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">    \"subject\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"Your Monthly Newsletter\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">    \"template_id\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"newsletter_v2\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">    \"merge_fields\"</span><span style=\"color:#E1E4E8\">: {</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">      \"first_name\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"John\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">      \"last_name\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"Doe\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">      \"subscription_tier\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"premium\"</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    }</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">  }</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">}</span></span></code></pre>\n<hr>\n<h2 id=\"tables-data-visualization-done-right\">Tables: Data Visualization Done Right</h2>\n<p>Want to compare pricing plans or show statistics? Tables are your answer:</p>\n<p>| Feature | Free Plan | Pro Plan | Enterprise | | ---------------- | --------- | -------- | ---------- | | Monthly emails | 10,000 | 100,000 | Unlimited | | Subscribers | 2,000 | 25,000 | Unlimited | | Templates | 5 | 50 | Unlimited | | A/B Testing | ❌ | ✅ | ✅ | | Priority Support | ❌ | ✅ | ✅ | | Custom Domain | ❌ | ❌ | ✅ | | Price | $0 | $49/mo | Custom |</p>\n<h3 id=\"campaign-performance-comparison\">Campaign Performance Comparison</h3>\n<p>| Month | Emails Sent | Open Rate | Click Rate | Conversions | | --------- | ----------- | --------- | ---------- | ----------- | | January | 45,230 | 24.5% | 3.2% | 147 | | February | 52,100 | 28.3% | 4.1% | 203 | | March | 61,450 | 31.7% | 5.8% | 289 | | <strong>Total</strong> | <strong>158,780</strong> | <strong>28.2%</strong> | <strong>4.4%</strong> | <strong>639</strong> |</p>\n<hr>\n<h2 id=\"images-visual-storytelling\">Images: Visual Storytelling</h2>\n<p>While we can’t embed images directly in markdown, we can reference them:</p>\n<p><img alt=\"Email Marketing Dashboard Screenshot\" src=\"/images/blog/featured-image-3.jpg\"></p>\n<p><em>Above: Our beautiful analytics dashboard showing real-time campaign performance</em></p>\n<p><img alt=\"Happy customer reading email\" src=\"/images/blog/blog-thumb-5.jpg\"></p>\n<p><strong>Image best practices for emails:</strong></p>\n<ul>\n<li>Always include alt text for accessibility</li>\n<li>Optimize file sizes for faster loading</li>\n<li>Use descriptive filenames</li>\n<li>Test image rendering across email clients</li>\n</ul>\n<hr>\n<h2 id=\"horizontal-rules-section-dividers\">Horizontal Rules: Section Dividers</h2>\n<p>Sometimes you need a visual break between sections. That’s where horizontal rules come in:</p>\n<hr>\n<hr>\n<hr>\n<p>All three of these create horizontal lines, but they give your content breathing room and help readers navigate longer emails.</p>\n<hr>\n<h2 id=\"task-lists-interactive-checkboxes\">Task Lists: Interactive Checkboxes</h2>\n<p>Want to create an interactive checklist for your readers?</p>\n<ul>\n<li>[x] Create an account</li>\n<li>[x] Verify your email address</li>\n<li>[x] Import your first contacts</li>\n<li>[ ] Design your first campaign</li>\n<li>[ ] Set up automation workflows</li>\n<li>[ ] Launch your welcome series</li>\n</ul>\n<hr>\n<h2 id=\"emojis-adding-personality\">Emojis: Adding Personality 🎉</h2>\n<p>Modern email campaigns aren’t complete without emojis! They increase open rates and make your subject lines pop:</p>\n<ul>\n<li>📧 Email-related: ✉️ 📮 📨 📩</li>\n<li>Success indicators: ✅ ✔️ 💯 🎯 ⭐</li>\n<li>Attention grabbers: 🔥 ⚡ 💡 🚀 💎</li>\n<li>Celebrations: 🎉 🎊 🥳 🎈 🏆</li>\n<li>Time-sensitive: ⏰ ⏱️ ⌛ 🕐 ⏳</li>\n</ul>\n<p><strong>Subject line examples:</strong></p>\n<ul>\n<li>”🚀 Launch Day: Your Campaign Goes Live!”</li>\n<li>”⏰ Last Chance: Sale Ends Tonight”</li>\n<li>”💡 5 Email Tips That Changed Everything”</li>\n<li>”🎉 You’ve Reached 10,000 Subscribers!”</li>\n</ul>\n<hr>\n<h2 id=\"nested-content-going-deeper\">Nested Content: Going Deeper</h2>\n<p>Sometimes you need to nest content within content:</p>\n<ol>\n<li>\n<p><strong>Planning Phase</strong></p>\n<ul>\n<li>Define your audience\n<ul>\n<li>Demographics</li>\n<li>Interests</li>\n<li>Pain points</li>\n</ul>\n</li>\n<li>Set clear goals\n<ul>\n<li>Open rate targets</li>\n<li>Click-through goals</li>\n<li>Conversion objectives</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Creation Phase</strong></p>\n<blockquote>\n<p>Start with a compelling subject line</p>\n</blockquote>\n<pre class=\"astro-code github-dark\" data-language=\"plaintext\" style=\"background-color:#24292e;color:#e1e4e8; overflow-x: auto;\" tabindex=\"0\"><code><span class=\"line\"><span>Subject: [First Name], your exclusive offer awaits...</span></span>\n<span class=\"line\"><span>Preview: Open within 24 hours for an extra 20% off</span></span></code></pre>\n<ul>\n<li>Draft your content</li>\n<li>Add personalization tokens</li>\n<li>Include clear CTAs</li>\n</ul>\n</li>\n<li>\n<p><strong>Testing Phase</strong></p>\n<ul>\n<li>Send test emails</li>\n<li>Check on multiple devices</li>\n<li>Verify all links work</li>\n</ul>\n</li>\n</ol>\n<hr>\n<h2 id=\"escape-characters-when-you-need-the-raw-symbol\">Escape Characters: When You Need the Raw Symbol</h2>\n<p>Sometimes you need to show markdown characters without them being formatted:</p>\n<ul>\n<li>Use a backslash \\ before special characters</li>\n<li>Like this: *not italic* and **not bold**</li>\n<li>Or this: [not a link](<a href=\"https://example.com\">https://example.com</a>)</li>\n<li>And this: # Not a heading</li>\n</ul>\n<hr>\n<h2 id=\"html-within-markdown-the-power-combo\">HTML Within Markdown: The Power Combo</h2>\n<p>For advanced users, you can mix HTML into your markdown:</p>\n<div style=\"background: #f0f0f0; padding: 20px; border-radius: 8px; margin: 20px 0;\">\n<strong>💡 Pro Tip:</strong> You can use HTML for advanced styling that markdown doesn't support!\n</div>\n<details>\n<summary><strong>Click to reveal advanced email tips</strong></summary>\n<ul>\n<li>Segment your audience for targeted campaigns</li>\n<li>Use dynamic content based on user behavior</li>\n<li>Test different send times for optimal engagement</li>\n<li>Clean your list regularly to maintain deliverability</li>\n<li>Personalize beyond just the first name</li>\n</ul>\n</details>\n<hr>\n<h2 id=\"mathematical-expressions-for-the-data-nerds\">Mathematical Expressions: For the Data Nerds</h2>\n<p>While not all markdown processors support this, you can include mathematical formulas:</p>\n<p>The email open rate formula: <code>Open Rate = (Unique Opens / Delivered Emails) × 100</code></p>\n<p>Our average click-to-open rate: <code>CTOR = (Unique Clicks / Unique Opens) × 100 = 23.5%</code></p>\n<hr>\n<h2 id=\"putting-it-all-together-a-real-campaign-example\">Putting It All Together: A Real Campaign Example</h2>\n<p>Here’s how you might combine multiple markdown elements in an actual email campaign:</p>\n<hr>\n<h3 id=\"-this-months-newsletter-boost-your-email-roi\">🎯 This Month’s Newsletter: Boost Your Email ROI</h3>\n<p>Hi <strong>[First Name]</strong>,</p>\n<p>We’ve got some <em>exciting updates</em> to share! Our latest features are designed to help you <strong>increase engagement by up to 40%</strong>.</p>\n<h4 id=\"-your-campaign-stats-last-30-days\">📊 Your Campaign Stats (Last 30 Days)</h4>\n<p>| Metric | Your Account | Industry Average | | ---------- | ------------ | ---------------- | | Open Rate | <strong>32.5%</strong> | 21.3% | | Click Rate | <strong>5.8%</strong> | 3.2% | | Conversion | <strong>2.1%</strong> | 1.4% |</p>\n<p>You’re <strong>crushing it!</strong> 🎉</p>\n<h4 id=\"-new-features-just-for-you\">🚀 New Features Just for You</h4>\n<ol>\n<li><strong>AI-Powered Send Time Optimization</strong>\n<ul>\n<li>Analyzes subscriber behavior</li>\n<li>Sends at optimal times automatically</li>\n<li>Average 25% improvement in opens</li>\n</ul>\n</li>\n<li><strong>Advanced Segmentation Builder</strong>\n<ul>\n<li>Drag-and-drop interface</li>\n<li>Unlimited custom segments</li>\n<li>Real-time preview of audience size</li>\n</ul>\n</li>\n<li><strong>Dynamic Content Blocks</strong>\n<ul>\n<li>Personalize entire sections</li>\n<li>Show different content to different segments</li>\n<li>A/B test variations automatically</li>\n</ul>\n</li>\n</ol>\n<blockquote>\n<p>“The new send time optimization alone increased our open rates by 28%. Absolutely worth upgrading!”</p>\n<p>— Michael Chen, E-commerce Manager</p>\n</blockquote>\n<h4 id=\"-your-action-items-this-week\">✅ Your Action Items This Week</h4>\n<ul>\n<li>[ ] Try the new segmentation builder</li>\n<li>[ ] Enable send time optimization</li>\n<li>[ ] Schedule your next campaign</li>\n<li>[ ] Review your analytics dashboard</li>\n</ul>\n<p><a href=\"https://example.com/dashboard\"><strong>Start Your Next Campaign →</strong></a></p>\n<hr>\n<p><strong>Questions?</strong> Reply to this email or <a href=\"https://example.com/help\">visit our help center</a>.</p>\n<p>Happy sending! 📧</p>\n<p>The Email Team</p>\n<hr>\n<h2 id=\"conclusion-markdown-mastery-achieved\">Conclusion: Markdown Mastery Achieved! 🏆</h2>\n<p>Congratulations! You’ve just seen <strong>every markdown element</strong> you’ll ever need for creating stunning email campaigns. From basic text formatting to complex tables and code blocks, you now have the complete toolkit.</p>\n<h3 id=\"quick-recap-of-what-youve-learned\">Quick Recap of What You’ve Learned:</h3>\n<ul>\n<li><strong>Headings</strong> for structure (H1-H6)</li>\n<li><strong>Text formatting</strong> (bold, italic, strikethrough, code)</li>\n<li><strong>Lists</strong> (ordered, unordered, nested)</li>\n<li><strong>Links</strong> (inline and reference-style)</li>\n<li><strong>Blockquotes</strong> for emphasis and testimonials</li>\n<li><strong>Code blocks</strong> for technical content</li>\n<li><strong>Tables</strong> for data visualization</li>\n<li><strong>Images</strong> with alt text</li>\n<li><strong>Horizontal rules</strong> for section breaks</li>\n<li><strong>Task lists</strong> for interactive content</li>\n<li><strong>Emojis</strong> for personality</li>\n<li><strong>HTML integration</strong> for advanced styling</li>\n</ul>\n<h3 id=\"ready-to-send-your-best-email-yet\">Ready to Send Your Best Email Yet?</h3>\n<p><a href=\"https://example.com/signup\"><strong>Get Started Free →</strong></a> | <a href=\"https://example.com/templates\"><strong>View Templates →</strong></a> | <a href=\"https://example.com/docs\"><strong>Read Docs →</strong></a></p>\n<hr>\n<p><em>P.S. Bookmark this page as your markdown reference guide—you’ll want to come back to it!</em> 📚</p>\n<p><strong>Tags:</strong> #EmailMarketing #Markdown #Tutorial #ContentCreation #NewsletterTips #EmailDesign</p>\n<hr>\n<p><strong>Share this guide:</strong></p>\n<ul>\n<li><a href=\"https://twitter.com/intent/tweet\">Tweet this</a></li>\n<li><a href=\"https://linkedin.com/share\">Share on LinkedIn</a></li>\n<li><a href=\"mailto:?subject=Check%20out%20this%20markdown%20guide\">Email to a friend</a></li>\n</ul>\n<p><strong>Related Reading:</strong></p>\n<ul>\n<li><a href=\"#\">5 Things to Improve Your Email Templates</a></li>\n<li><a href=\"#\">Best Email Sending Services</a></li>\n<li><a href=\"#\">How to Host Better Email Marketing Campaigns</a></li>\n</ul>\n<hr>\n<small>\nLast updated: November 15, 2024 | Written by Markdown McEmailface | Reading time: 12 minutes\n</small>  ",
+    "value": "  <p>Welcome to the <strong>most comprehensive markdown styling guide</strong> you’ve ever seen for email campaigns! Whether you’re crafting your first newsletter or you’re a seasoned email veteran, this post showcases <em>every single markdown element</em> you can use to make your emails pop.</p>\n<h2 id=\"why-markdown-matters-for-email\">Why Markdown Matters for Email 📧</h2>\n<p>Before we dive into the formatting feast, let’s talk about why markdown is your secret weapon for creating stunning email campaigns. With markdown, you can focus on <strong>content first, formatting second</strong>—and that’s exactly how it should be!</p>\n<hr>\n<h2 id=\"headings-the-hierarchy-heroes\">Headings: The Hierarchy Heroes</h2>\n<h1 id=\"h1-the-big-kahuna-headline\">H1: The Big Kahuna Headline</h1>\n<h2 id=\"h2-section-splendor\">H2: Section Splendor</h2>\n<h3 id=\"h3-subsection-sensation\">H3: Subsection Sensation</h3>\n<h4 id=\"h4-detail-dynamo\">H4: Detail Dynamo</h4>\n<h5 id=\"h5-tiny-but-mighty\">H5: Tiny but Mighty</h5>\n<h6 id=\"h6-the-smallest-star\">H6: The Smallest Star</h6>\n<p><strong>Pro tip:</strong> Use H1 sparingly (usually just once for your main title), and structure your content with H2-H3 for maximum readability!</p>\n<hr>\n<h2 id=\"text-formatting-the-style-squad\">Text Formatting: The Style Squad</h2>\n<p>Here’s where things get <em>really</em> interesting. Let’s explore all the ways you can emphasize your text:</p>\n<p><strong>Bold text</strong> makes your key points impossible to miss—perfect for those crucial call-to-action phrases like “<strong>Limited Time Offer</strong>” or “<strong>Subscribe Now</strong>”.</p>\n<p><em>Italic text</em> adds subtle emphasis and works beautifully for introducing new terms or creating a conversational tone.</p>\n<p><em><strong>Bold and italic together</strong></em> is the nuclear option—use it when you absolutely, positively need maximum emphasis (but use it sparingly, or it loses its power).</p>\n<p><del>Strikethrough text</del> is perfect for showing old prices: <del>$99/month</del> <strong>$49/month</strong> (now THAT’S a deal!).</p>\n<p>You can also use <code>inline code</code> for technical terms like <code>SMTP server</code> or <code>API key</code>—it makes them stand out and look professional.</p>\n<hr>\n<h2 id=\"lists-the-organization-overlords\">Lists: The Organization Overlords</h2>\n<h3 id=\"unordered-lists-aka-bullet-points\">Unordered Lists (aka Bullet Points)</h3>\n<p>When you’re listing benefits, features, or ideas, bullets are your best friend:</p>\n<ul>\n<li><strong>Instant delivery</strong> - Your emails arrive in milliseconds</li>\n<li><strong>99.9% uptime</strong> - We’re always here when you need us</li>\n<li><strong>Unlimited subscribers</strong> - Grow your list without limits</li>\n<li><strong>Advanced analytics</strong> - Track every click, open, and conversion\n<ul>\n<li>Click-through rates</li>\n<li>Geographic data</li>\n<li>Device breakdown</li>\n<li>Time-based engagement</li>\n</ul>\n</li>\n</ul>\n<h3 id=\"ordered-lists-aka-numbered-lists\">Ordered Lists (aka Numbered Lists)</h3>\n<p>Perfect for step-by-step instructions or rankings:</p>\n<ol>\n<li><strong>Sign up</strong> for your free account (takes 30 seconds!)</li>\n<li><strong>Import your contacts</strong> via CSV or API</li>\n<li><strong>Design your template</strong> using our drag-and-drop editor</li>\n<li><strong>Send your campaign</strong> to thousands with one click</li>\n<li><strong>Analyze the results</strong> and optimize for next time</li>\n</ol>\n<h3 id=\"mixed-lists-the-best-of-both-worlds\">Mixed Lists: The Best of Both Worlds</h3>\n<ol>\n<li><strong>Breakfast emails</strong> - Morning motivation series\n<ul>\n<li>Monday: “Rise and Shine” tips</li>\n<li>Wednesday: Mid-week momentum</li>\n<li>Friday: Weekend preview</li>\n</ul>\n</li>\n<li><strong>Lunch-time links</strong> - Curated content digest\n<ul>\n<li>Industry news</li>\n<li>Trending topics</li>\n<li>Exclusive offers</li>\n</ul>\n</li>\n<li><strong>Evening engagement</strong> - Wrap-up newsletters</li>\n</ol>\n<hr>\n<h2 id=\"links-and-navigation\">Links and Navigation</h2>\n<p>Links are the lifeblood of email marketing. Here’s how to create them effectively:</p>\n<p><a href=\"https://example.com\">Visit our homepage</a> to learn more about our services.</p>\n<p><a href=\"https://example.com/signup\">Get started with your free trial today</a> and send your first 10,000 emails on us!</p>\n<p>You can also use reference-style links for cleaner markdown:</p>\n<p>Check out our <a href=\"https://example.com/guide\">Email Delivery Guide</a> for advanced tips, or read our <a href=\"https://example.com/practices\">Best Practices</a> article for beginners.</p>\n<p><strong>Pro tip:</strong> Always use descriptive link text. Instead of “click here”, say “download the free template” or “view the full report”.</p>\n<hr>\n<h2 id=\"blockquotes-highlighting-wisdom\">Blockquotes: Highlighting Wisdom</h2>\n<blockquote>\n<p>“Since switching to this email service, our open rates have increased by 300% and our customer engagement has never been higher. It’s like magic, but better—it’s data-driven magic!”</p>\n<p>— Sarah Johnson, Marketing Director at TechCorp</p>\n</blockquote>\n<p>Blockquotes are perfect for:</p>\n<ul>\n<li>Customer testimonials (like above)</li>\n<li>Key statistics or findings</li>\n<li>Inspirational quotes</li>\n<li>Important warnings or notes</li>\n</ul>\n<blockquote>\n<p><strong>Important Note:</strong> Always test your emails on multiple devices before sending to your entire list. What looks perfect on desktop might need tweaking on mobile!</p>\n</blockquote>\n<hr>\n<h2 id=\"code-blocks-for-the-technical-crowd\">Code Blocks: For the Technical Crowd</h2>\n<p>Sometimes you need to share code snippets, API examples, or configuration settings. Here’s how:</p>\n<h3 id=\"inline-code\">Inline Code</h3>\n<p>Use the <code>Content-Type: text/html</code> header for HTML emails, or configure your <code>smtp_server</code> settings in the dashboard.</p>\n<h3 id=\"fenced-code-blocks\">Fenced Code Blocks</h3>\n<pre class=\"astro-code github-dark\" data-language=\"javascript\" style=\"background-color:#24292e;color:#e1e4e8; overflow-x: auto;\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#6A737D\">// Example: Send an email via our API</span></span>\n<span class=\"line\"><span style=\"color:#F97583\">const</span><span style=\"color:#B392F0\"> sendEmail</span><span style=\"color:#F97583\"> =</span><span style=\"color:#F97583\"> async</span><span style=\"color:#E1E4E8\"> () </span><span style=\"color:#F97583\">=&gt;</span><span style=\"color:#E1E4E8\"> {</span></span>\n<span class=\"line\"><span style=\"color:#F97583\">  const</span><span style=\"color:#79B8FF\"> response</span><span style=\"color:#F97583\"> =</span><span style=\"color:#F97583\"> await</span><span style=\"color:#B392F0\"> fetch</span><span style=\"color:#E1E4E8\">(</span><span style=\"color:#9ECBFF\">\"https://api.example.com/send\"</span><span style=\"color:#E1E4E8\">, {</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    method: </span><span style=\"color:#9ECBFF\">\"POST\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    headers: {</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">      Authorization: </span><span style=\"color:#9ECBFF\">\"Bearer YOUR_API_KEY\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">      \"Content-Type\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"application/json\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    },</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    body: </span><span style=\"color:#79B8FF\">JSON</span><span style=\"color:#E1E4E8\">.</span><span style=\"color:#B392F0\">stringify</span><span style=\"color:#E1E4E8\">({</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">      to: </span><span style=\"color:#9ECBFF\">\"customer@example.com\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">      subject: </span><span style=\"color:#9ECBFF\">\"Welcome to Our Newsletter!\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">      html: </span><span style=\"color:#9ECBFF\">\"&lt;h1&gt;Hello, World!&lt;/h1&gt;\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    }),</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">  });</span></span>\n<span class=\"line\"><span style=\"color:#F97583\">  return</span><span style=\"color:#E1E4E8\"> response.</span><span style=\"color:#B392F0\">json</span><span style=\"color:#E1E4E8\">();</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">};</span></span></code></pre>\n<pre class=\"astro-code github-dark\" data-language=\"python\" style=\"background-color:#24292e;color:#e1e4e8; overflow-x: auto;\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#6A737D\"># Python example: Bulk email sender</span></span>\n<span class=\"line\"><span style=\"color:#F97583\">import</span><span style=\"color:#E1E4E8\"> requests</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#F97583\">def</span><span style=\"color:#B392F0\"> send_bulk_email</span><span style=\"color:#E1E4E8\">(recipients, subject, body):</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">    \"\"\"Send email to multiple recipients\"\"\"</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    api_url </span><span style=\"color:#F97583\">=</span><span style=\"color:#9ECBFF\"> \"https://api.example.com/bulk-send\"</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    headers </span><span style=\"color:#F97583\">=</span><span style=\"color:#E1E4E8\"> {</span><span style=\"color:#9ECBFF\">\"Authorization\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"Bearer YOUR_API_KEY\"</span><span style=\"color:#E1E4E8\">}</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    payload </span><span style=\"color:#F97583\">=</span><span style=\"color:#E1E4E8\"> {</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">        \"recipients\"</span><span style=\"color:#E1E4E8\">: recipients,</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">        \"subject\"</span><span style=\"color:#E1E4E8\">: subject,</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">        \"html_body\"</span><span style=\"color:#E1E4E8\">: body,</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">        \"track_opens\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#79B8FF\">True</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">        \"track_clicks\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#79B8FF\">True</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    }</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    response </span><span style=\"color:#F97583\">=</span><span style=\"color:#E1E4E8\"> requests.post(api_url, </span><span style=\"color:#FFAB70\">json</span><span style=\"color:#F97583\">=</span><span style=\"color:#E1E4E8\">payload, </span><span style=\"color:#FFAB70\">headers</span><span style=\"color:#F97583\">=</span><span style=\"color:#E1E4E8\">headers)</span></span>\n<span class=\"line\"><span style=\"color:#F97583\">    return</span><span style=\"color:#E1E4E8\"> response.json()</span></span></code></pre>\n<pre class=\"astro-code github-dark\" data-language=\"json\" style=\"background-color:#24292e;color:#e1e4e8; overflow-x: auto;\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#E1E4E8\">{</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">  \"email\"</span><span style=\"color:#E1E4E8\">: {</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">    \"from\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"hello@yourbrand.com\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">    \"to\"</span><span style=\"color:#E1E4E8\">: [</span><span style=\"color:#9ECBFF\">\"subscriber@example.com\"</span><span style=\"color:#E1E4E8\">],</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">    \"subject\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"Your Monthly Newsletter\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">    \"template_id\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"newsletter_v2\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">    \"merge_fields\"</span><span style=\"color:#E1E4E8\">: {</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">      \"first_name\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"John\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">      \"last_name\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"Doe\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">      \"subscription_tier\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"premium\"</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    }</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">  }</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">}</span></span></code></pre>\n<hr>\n<h2 id=\"tables-data-visualization-done-right\">Tables: Data Visualization Done Right</h2>\n<p>Want to compare pricing plans or show statistics? Tables are your answer:</p>\n<p>| Feature | Free Plan | Pro Plan | Enterprise | | ---------------- | --------- | -------- | ---------- | | Monthly emails | 10,000 | 100,000 | Unlimited | | Subscribers | 2,000 | 25,000 | Unlimited | | Templates | 5 | 50 | Unlimited | | A/B Testing | ❌ | ✅ | ✅ | | Priority Support | ❌ | ✅ | ✅ | | Custom Domain | ❌ | ❌ | ✅ | | Price | $0 | $49/mo | Custom |</p>\n<h3 id=\"campaign-performance-comparison\">Campaign Performance Comparison</h3>\n<p>| Month | Emails Sent | Open Rate | Click Rate | Conversions | | --------- | ----------- | --------- | ---------- | ----------- | | January | 45,230 | 24.5% | 3.2% | 147 | | February | 52,100 | 28.3% | 4.1% | 203 | | March | 61,450 | 31.7% | 5.8% | 289 | | <strong>Total</strong> | <strong>158,780</strong> | <strong>28.2%</strong> | <strong>4.4%</strong> | <strong>639</strong> |</p>\n<hr>\n<h2 id=\"images-visual-storytelling\">Images: Visual Storytelling</h2>\n<p>While we can’t embed images directly in markdown, we can reference them:</p>\n<p><img alt=\"Email Marketing Dashboard Screenshot\" src=\"/images/blog/featured-image-3.jpg\"></p>\n<p><em>Above: Our beautiful analytics dashboard showing real-time campaign performance</em></p>\n<p><img alt=\"Happy customer reading email\" src=\"/images/blog/blog-thumb-5.jpg\"></p>\n<p><strong>Image best practices for emails:</strong></p>\n<ul>\n<li>Always include alt text for accessibility</li>\n<li>Optimize file sizes for faster loading</li>\n<li>Use descriptive filenames</li>\n<li>Test image rendering across email clients</li>\n</ul>\n<hr>\n<h2 id=\"horizontal-rules-section-dividers\">Horizontal Rules: Section Dividers</h2>\n<p>Sometimes you need a visual break between sections. That’s where horizontal rules come in:</p>\n<hr>\n<hr>\n<hr>\n<p>All three of these create horizontal lines, but they give your content breathing room and help readers navigate longer emails.</p>\n<hr>\n<h2 id=\"task-lists-interactive-checkboxes\">Task Lists: Interactive Checkboxes</h2>\n<p>Want to create an interactive checklist for your readers?</p>\n<ul>\n<li>[x] Create an account</li>\n<li>[x] Verify your email address</li>\n<li>[x] Import your first contacts</li>\n<li>[ ] Design your first campaign</li>\n<li>[ ] Set up automation workflows</li>\n<li>[ ] Launch your welcome series</li>\n</ul>\n<hr>\n<h2 id=\"emojis-adding-personality\">Emojis: Adding Personality 🎉</h2>\n<p>Modern email campaigns aren’t complete without emojis! They increase open rates and make your subject lines pop:</p>\n<ul>\n<li>📧 Email-related: ✉️ 📮 📨 📩</li>\n<li>Success indicators: ✅ ✔️ 💯 🎯 ⭐</li>\n<li>Attention grabbers: 🔥 ⚡ 💡 🚀 💎</li>\n<li>Celebrations: 🎉 🎊 🥳 🎈 🏆</li>\n<li>Time-sensitive: ⏰ ⏱️ ⌛ 🕐 ⏳</li>\n</ul>\n<p><strong>Subject line examples:</strong></p>\n<ul>\n<li>”🚀 Launch Day: Your Campaign Goes Live!”</li>\n<li>”⏰ Last Chance: Sale Ends Tonight”</li>\n<li>”💡 5 Email Tips That Changed Everything”</li>\n<li>”🎉 You’ve Reached 10,000 Subscribers!”</li>\n</ul>\n<hr>\n<h2 id=\"nested-content-going-deeper\">Nested Content: Going Deeper</h2>\n<p>Sometimes you need to nest content within content:</p>\n<ol>\n<li>\n<p><strong>Planning Phase</strong></p>\n<ul>\n<li>Define your audience\n<ul>\n<li>Demographics</li>\n<li>Interests</li>\n<li>Pain points</li>\n</ul>\n</li>\n<li>Set clear goals\n<ul>\n<li>Open rate targets</li>\n<li>Click-through goals</li>\n<li>Conversion objectives</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Creation Phase</strong></p>\n<blockquote>\n<p>Start with a compelling subject line</p>\n</blockquote>\n<pre class=\"astro-code github-dark\" data-language=\"plaintext\" style=\"background-color:#24292e;color:#e1e4e8; overflow-x: auto;\" tabindex=\"0\"><code><span class=\"line\"><span>Subject: [First Name], your exclusive offer awaits...</span></span>\n<span class=\"line\"><span>Preview: Open within 24 hours for an extra 20% off</span></span></code></pre>\n<ul>\n<li>Draft your content</li>\n<li>Add personalization tokens</li>\n<li>Include clear CTAs</li>\n</ul>\n</li>\n<li>\n<p><strong>Testing Phase</strong></p>\n<ul>\n<li>Send test emails</li>\n<li>Check on multiple devices</li>\n<li>Verify all links work</li>\n</ul>\n</li>\n</ol>\n<hr>\n<h2 id=\"escape-characters-when-you-need-the-raw-symbol\">Escape Characters: When You Need the Raw Symbol</h2>\n<p>Sometimes you need to show markdown characters without them being formatted:</p>\n<ul>\n<li>Use a backslash \\ before special characters</li>\n<li>Like this: *not italic* and **not bold**</li>\n<li>Or this: [not a link](<a href=\"https://example.com\">https://example.com</a>)</li>\n<li>And this: # Not a heading</li>\n</ul>\n<hr>\n<h2 id=\"html-within-markdown-the-power-combo\">HTML Within Markdown: The Power Combo</h2>\n<p>For advanced users, you can mix HTML into your markdown:</p>\n<div style=\"background: #f0f0f0; padding: 20px; border-radius: 8px; margin: 20px 0;\">\n<strong>💡 Pro Tip:</strong> You can use HTML for advanced styling that markdown doesn't support!\n</div>\n<details>\n<summary><strong>Click to reveal advanced email tips</strong></summary>\n<ul>\n<li>Segment your audience for targeted campaigns</li>\n<li>Use dynamic content based on user behavior</li>\n<li>Test different send times for optimal engagement</li>\n<li>Clean your list regularly to maintain deliverability</li>\n<li>Personalize beyond just the first name</li>\n</ul>\n</details>\n<hr>\n<h2 id=\"mathematical-expressions-for-the-data-nerds\">Mathematical Expressions: For the Data Nerds</h2>\n<p>While not all markdown processors support this, you can include mathematical formulas:</p>\n<p>The email open rate formula: <code>Open Rate = (Unique Opens / Delivered Emails) × 100</code></p>\n<p>Our average click-to-open rate: <code>CTOR = (Unique Clicks / Unique Opens) × 100 = 23.5%</code></p>\n<hr>\n<h2 id=\"putting-it-all-together-a-real-campaign-example\">Putting It All Together: A Real Campaign Example</h2>\n<p>Here’s how you might combine multiple markdown elements in an actual email campaign:</p>\n<hr>\n<h3 id=\"-this-months-newsletter-boost-your-email-roi\">🎯 This Month’s Newsletter: Boost Your Email ROI</h3>\n<p>Hi <strong>[First Name]</strong>,</p>\n<p>We’ve got some <em>exciting updates</em> to share! Our latest features are designed to help you <strong>increase engagement by up to 40%</strong>.</p>\n<h4 id=\"-your-campaign-stats-last-30-days\">📊 Your Campaign Stats (Last 30 Days)</h4>\n<p>| Metric | Your Account | Industry Average | | ---------- | ------------ | ---------------- | | Open Rate | <strong>32.5%</strong> | 21.3% | | Click Rate | <strong>5.8%</strong> | 3.2% | | Conversion | <strong>2.1%</strong> | 1.4% |</p>\n<p>You’re <strong>crushing it!</strong> 🎉</p>\n<h4 id=\"-new-features-just-for-you\">🚀 New Features Just for You</h4>\n<ol>\n<li><strong>AI-Powered Send Time Optimization</strong>\n<ul>\n<li>Analyzes subscriber behavior</li>\n<li>Sends at optimal times automatically</li>\n<li>Average 25% improvement in opens</li>\n</ul>\n</li>\n<li><strong>Advanced Segmentation Builder</strong>\n<ul>\n<li>Drag-and-drop interface</li>\n<li>Unlimited custom segments</li>\n<li>Real-time preview of audience size</li>\n</ul>\n</li>\n<li><strong>Dynamic Content Blocks</strong>\n<ul>\n<li>Personalize entire sections</li>\n<li>Show different content to different segments</li>\n<li>A/B test variations automatically</li>\n</ul>\n</li>\n</ol>\n<blockquote>\n<p>“The new send time optimization alone increased our open rates by 28%. Absolutely worth upgrading!”</p>\n<p>— Michael Chen, E-commerce Manager</p>\n</blockquote>\n<h4 id=\"-your-action-items-this-week\">✅ Your Action Items This Week</h4>\n<ul>\n<li>[ ] Try the new segmentation builder</li>\n<li>[ ] Enable send time optimization</li>\n<li>[ ] Schedule your next campaign</li>\n<li>[ ] Review your analytics dashboard</li>\n</ul>\n<p><a href=\"https://example.com/dashboard\"><strong>Start Your Next Campaign →</strong></a></p>\n<hr>\n<p><strong>Questions?</strong> Reply to this email or <a href=\"https://example.com/help\">visit our help center</a>.</p>\n<p>Happy sending! 📧</p>\n<p>The Email Team</p>\n<hr>\n<h2 id=\"conclusion-markdown-mastery-achieved\">Conclusion: Markdown Mastery Achieved! 🏆</h2>\n<p>Congratulations! You’ve just seen <strong>every markdown element</strong> you’ll ever need for creating stunning email campaigns. From basic text formatting to complex tables and code blocks, you now have the complete toolkit.</p>\n<h3 id=\"quick-recap-of-what-youve-learned\">Quick Recap of What You’ve Learned:</h3>\n<ul>\n<li><strong>Headings</strong> for structure (H1-H6)</li>\n<li><strong>Text formatting</strong> (bold, italic, strikethrough, code)</li>\n<li><strong>Lists</strong> (ordered, unordered, nested)</li>\n<li><strong>Links</strong> (inline and reference-style)</li>\n<li><strong>Blockquotes</strong> for emphasis and testimonials</li>\n<li><strong>Code blocks</strong> for technical content</li>\n<li><strong>Tables</strong> for data visualization</li>\n<li><strong>Images</strong> with alt text</li>\n<li><strong>Horizontal rules</strong> for section breaks</li>\n<li><strong>Task lists</strong> for interactive content</li>\n<li><strong>Emojis</strong> for personality</li>\n<li><strong>HTML integration</strong> for advanced styling</li>\n</ul>\n<h3 id=\"ready-to-send-your-best-email-yet\">Ready to Send Your Best Email Yet?</h3>\n<p><a href=\"https://example.com/signup\"><strong>Get Started Free →</strong></a> | <a href=\"https://example.com/templates\"><strong>View Templates →</strong></a> | <a href=\"https://example.com/docs\"><strong>Read Docs →</strong></a></p>\n<hr>\n<p><em>P.S. Bookmark this page as your markdown reference guide—you’ll want to come back to it!</em> 📚</p>\n<p><strong>Tags:</strong> #EmailMarketing #Markdown #Tutorial #ContentCreation #NewsletterTips #EmailDesign</p>\n<hr>\n<p><strong>Share this guide:</strong></p>\n<ul>\n<li><a href=\"https://twitter.com/intent/tweet\">Tweet this</a></li>\n<li><a href=\"https://linkedin.com/share\">Share on LinkedIn</a></li>\n<li><a href=\"mailto:?subject=Check%20out%20this%20markdown%20guide\">Email to a friend</a></li>\n</ul>\n<p><strong>Related Reading:</strong></p>\n<ul>\n<li><a href=\"#\">5 Things to Improve Your Email Templates</a></li>\n<li><a href=\"#\">Best Email Sending Services</a></li>\n<li><a href=\"#\">How to Host Better Email Marketing Campaigns</a></li>\n</ul>\n<hr>\n<small>\nLast updated: November 15, 2024 | Written by Markdown McEmailface | Reading time: 12 minutes\n</small>  ",
+    "_base_original": "  <p>Welcome to the <strong>most comprehensive markdown styling guide</strong> you’ve ever seen for email campaigns! Whether you’re crafting your first newsletter or you’re a seasoned email veteran, this post showcases <em>every single markdown element</em> you can use to make your emails pop.</p>\n<h2 id=\"why-markdown-matters-for-email\">Why Markdown Matters for Email 📧</h2>\n<p>Before we dive into the formatting feast, let’s talk about why markdown is your secret weapon for creating stunning email campaigns. With markdown, you can focus on <strong>content first, formatting second</strong>—and that’s exactly how it should be!</p>\n<hr>\n<h2 id=\"headings-the-hierarchy-heroes\">Headings: The Hierarchy Heroes</h2>\n<h1 id=\"h1-the-big-kahuna-headline\">H1: The Big Kahuna Headline</h1>\n<h2 id=\"h2-section-splendor\">H2: Section Splendor</h2>\n<h3 id=\"h3-subsection-sensation\">H3: Subsection Sensation</h3>\n<h4 id=\"h4-detail-dynamo\">H4: Detail Dynamo</h4>\n<h5 id=\"h5-tiny-but-mighty\">H5: Tiny but Mighty</h5>\n<h6 id=\"h6-the-smallest-star\">H6: The Smallest Star</h6>\n<p><strong>Pro tip:</strong> Use H1 sparingly (usually just once for your main title), and structure your content with H2-H3 for maximum readability!</p>\n<hr>\n<h2 id=\"text-formatting-the-style-squad\">Text Formatting: The Style Squad</h2>\n<p>Here’s where things get <em>really</em> interesting. Let’s explore all the ways you can emphasize your text:</p>\n<p><strong>Bold text</strong> makes your key points impossible to miss—perfect for those crucial call-to-action phrases like “<strong>Limited Time Offer</strong>” or “<strong>Subscribe Now</strong>”.</p>\n<p><em>Italic text</em> adds subtle emphasis and works beautifully for introducing new terms or creating a conversational tone.</p>\n<p><em><strong>Bold and italic together</strong></em> is the nuclear option—use it when you absolutely, positively need maximum emphasis (but use it sparingly, or it loses its power).</p>\n<p><del>Strikethrough text</del> is perfect for showing old prices: <del>$99/month</del> <strong>$49/month</strong> (now THAT’S a deal!).</p>\n<p>You can also use <code>inline code</code> for technical terms like <code>SMTP server</code> or <code>API key</code>—it makes them stand out and look professional.</p>\n<hr>\n<h2 id=\"lists-the-organization-overlords\">Lists: The Organization Overlords</h2>\n<h3 id=\"unordered-lists-aka-bullet-points\">Unordered Lists (aka Bullet Points)</h3>\n<p>When you’re listing benefits, features, or ideas, bullets are your best friend:</p>\n<ul>\n<li><strong>Instant delivery</strong> - Your emails arrive in milliseconds</li>\n<li><strong>99.9% uptime</strong> - We’re always here when you need us</li>\n<li><strong>Unlimited subscribers</strong> - Grow your list without limits</li>\n<li><strong>Advanced analytics</strong> - Track every click, open, and conversion\n<ul>\n<li>Click-through rates</li>\n<li>Geographic data</li>\n<li>Device breakdown</li>\n<li>Time-based engagement</li>\n</ul>\n</li>\n</ul>\n<h3 id=\"ordered-lists-aka-numbered-lists\">Ordered Lists (aka Numbered Lists)</h3>\n<p>Perfect for step-by-step instructions or rankings:</p>\n<ol>\n<li><strong>Sign up</strong> for your free account (takes 30 seconds!)</li>\n<li><strong>Import your contacts</strong> via CSV or API</li>\n<li><strong>Design your template</strong> using our drag-and-drop editor</li>\n<li><strong>Send your campaign</strong> to thousands with one click</li>\n<li><strong>Analyze the results</strong> and optimize for next time</li>\n</ol>\n<h3 id=\"mixed-lists-the-best-of-both-worlds\">Mixed Lists: The Best of Both Worlds</h3>\n<ol>\n<li><strong>Breakfast emails</strong> - Morning motivation series\n<ul>\n<li>Monday: “Rise and Shine” tips</li>\n<li>Wednesday: Mid-week momentum</li>\n<li>Friday: Weekend preview</li>\n</ul>\n</li>\n<li><strong>Lunch-time links</strong> - Curated content digest\n<ul>\n<li>Industry news</li>\n<li>Trending topics</li>\n<li>Exclusive offers</li>\n</ul>\n</li>\n<li><strong>Evening engagement</strong> - Wrap-up newsletters</li>\n</ol>\n<hr>\n<h2 id=\"links-and-navigation\">Links and Navigation</h2>\n<p>Links are the lifeblood of email marketing. Here’s how to create them effectively:</p>\n<p><a href=\"https://example.com\">Visit our homepage</a> to learn more about our services.</p>\n<p><a href=\"https://example.com/signup\">Get started with your free trial today</a> and send your first 10,000 emails on us!</p>\n<p>You can also use reference-style links for cleaner markdown:</p>\n<p>Check out our <a href=\"https://example.com/guide\">Email Delivery Guide</a> for advanced tips, or read our <a href=\"https://example.com/practices\">Best Practices</a> article for beginners.</p>\n<p><strong>Pro tip:</strong> Always use descriptive link text. Instead of “click here”, say “download the free template” or “view the full report”.</p>\n<hr>\n<h2 id=\"blockquotes-highlighting-wisdom\">Blockquotes: Highlighting Wisdom</h2>\n<blockquote>\n<p>“Since switching to this email service, our open rates have increased by 300% and our customer engagement has never been higher. It’s like magic, but better—it’s data-driven magic!”</p>\n<p>— Sarah Johnson, Marketing Director at TechCorp</p>\n</blockquote>\n<p>Blockquotes are perfect for:</p>\n<ul>\n<li>Customer testimonials (like above)</li>\n<li>Key statistics or findings</li>\n<li>Inspirational quotes</li>\n<li>Important warnings or notes</li>\n</ul>\n<blockquote>\n<p><strong>Important Note:</strong> Always test your emails on multiple devices before sending to your entire list. What looks perfect on desktop might need tweaking on mobile!</p>\n</blockquote>\n<hr>\n<h2 id=\"code-blocks-for-the-technical-crowd\">Code Blocks: For the Technical Crowd</h2>\n<p>Sometimes you need to share code snippets, API examples, or configuration settings. Here’s how:</p>\n<h3 id=\"inline-code\">Inline Code</h3>\n<p>Use the <code>Content-Type: text/html</code> header for HTML emails, or configure your <code>smtp_server</code> settings in the dashboard.</p>\n<h3 id=\"fenced-code-blocks\">Fenced Code Blocks</h3>\n<pre class=\"astro-code github-dark\" data-language=\"javascript\" style=\"background-color:#24292e;color:#e1e4e8; overflow-x: auto;\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#6A737D\">// Example: Send an email via our API</span></span>\n<span class=\"line\"><span style=\"color:#F97583\">const</span><span style=\"color:#B392F0\"> sendEmail</span><span style=\"color:#F97583\"> =</span><span style=\"color:#F97583\"> async</span><span style=\"color:#E1E4E8\"> () </span><span style=\"color:#F97583\">=&gt;</span><span style=\"color:#E1E4E8\"> {</span></span>\n<span class=\"line\"><span style=\"color:#F97583\">  const</span><span style=\"color:#79B8FF\"> response</span><span style=\"color:#F97583\"> =</span><span style=\"color:#F97583\"> await</span><span style=\"color:#B392F0\"> fetch</span><span style=\"color:#E1E4E8\">(</span><span style=\"color:#9ECBFF\">\"https://api.example.com/send\"</span><span style=\"color:#E1E4E8\">, {</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    method: </span><span style=\"color:#9ECBFF\">\"POST\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    headers: {</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">      Authorization: </span><span style=\"color:#9ECBFF\">\"Bearer YOUR_API_KEY\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">      \"Content-Type\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"application/json\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    },</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    body: </span><span style=\"color:#79B8FF\">JSON</span><span style=\"color:#E1E4E8\">.</span><span style=\"color:#B392F0\">stringify</span><span style=\"color:#E1E4E8\">({</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">      to: </span><span style=\"color:#9ECBFF\">\"customer@example.com\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">      subject: </span><span style=\"color:#9ECBFF\">\"Welcome to Our Newsletter!\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">      html: </span><span style=\"color:#9ECBFF\">\"&lt;h1&gt;Hello, World!&lt;/h1&gt;\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    }),</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">  });</span></span>\n<span class=\"line\"><span style=\"color:#F97583\">  return</span><span style=\"color:#E1E4E8\"> response.</span><span style=\"color:#B392F0\">json</span><span style=\"color:#E1E4E8\">();</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">};</span></span></code></pre>\n<pre class=\"astro-code github-dark\" data-language=\"python\" style=\"background-color:#24292e;color:#e1e4e8; overflow-x: auto;\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#6A737D\"># Python example: Bulk email sender</span></span>\n<span class=\"line\"><span style=\"color:#F97583\">import</span><span style=\"color:#E1E4E8\"> requests</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#F97583\">def</span><span style=\"color:#B392F0\"> send_bulk_email</span><span style=\"color:#E1E4E8\">(recipients, subject, body):</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">    \"\"\"Send email to multiple recipients\"\"\"</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    api_url </span><span style=\"color:#F97583\">=</span><span style=\"color:#9ECBFF\"> \"https://api.example.com/bulk-send\"</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    headers </span><span style=\"color:#F97583\">=</span><span style=\"color:#E1E4E8\"> {</span><span style=\"color:#9ECBFF\">\"Authorization\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"Bearer YOUR_API_KEY\"</span><span style=\"color:#E1E4E8\">}</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    payload </span><span style=\"color:#F97583\">=</span><span style=\"color:#E1E4E8\"> {</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">        \"recipients\"</span><span style=\"color:#E1E4E8\">: recipients,</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">        \"subject\"</span><span style=\"color:#E1E4E8\">: subject,</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">        \"html_body\"</span><span style=\"color:#E1E4E8\">: body,</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">        \"track_opens\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#79B8FF\">True</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#9ECBFF\">        \"track_clicks\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#79B8FF\">True</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    }</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    response </span><span style=\"color:#F97583\">=</span><span style=\"color:#E1E4E8\"> requests.post(api_url, </span><span style=\"color:#FFAB70\">json</span><span style=\"color:#F97583\">=</span><span style=\"color:#E1E4E8\">payload, </span><span style=\"color:#FFAB70\">headers</span><span style=\"color:#F97583\">=</span><span style=\"color:#E1E4E8\">headers)</span></span>\n<span class=\"line\"><span style=\"color:#F97583\">    return</span><span style=\"color:#E1E4E8\"> response.json()</span></span></code></pre>\n<pre class=\"astro-code github-dark\" data-language=\"json\" style=\"background-color:#24292e;color:#e1e4e8; overflow-x: auto;\" tabindex=\"0\"><code><span class=\"line\"><span style=\"color:#E1E4E8\">{</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">  \"email\"</span><span style=\"color:#E1E4E8\">: {</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">    \"from\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"hello@yourbrand.com\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">    \"to\"</span><span style=\"color:#E1E4E8\">: [</span><span style=\"color:#9ECBFF\">\"subscriber@example.com\"</span><span style=\"color:#E1E4E8\">],</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">    \"subject\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"Your Monthly Newsletter\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">    \"template_id\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"newsletter_v2\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">    \"merge_fields\"</span><span style=\"color:#E1E4E8\">: {</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">      \"first_name\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"John\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">      \"last_name\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"Doe\"</span><span style=\"color:#E1E4E8\">,</span></span>\n<span class=\"line\"><span style=\"color:#79B8FF\">      \"subscription_tier\"</span><span style=\"color:#E1E4E8\">: </span><span style=\"color:#9ECBFF\">\"premium\"</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">    }</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">  }</span></span>\n<span class=\"line\"><span style=\"color:#E1E4E8\">}</span></span></code></pre>\n<hr>\n<h2 id=\"tables-data-visualization-done-right\">Tables: Data Visualization Done Right</h2>\n<p>Want to compare pricing plans or show statistics? Tables are your answer:</p>\n<p>| Feature | Free Plan | Pro Plan | Enterprise | | ---------------- | --------- | -------- | ---------- | | Monthly emails | 10,000 | 100,000 | Unlimited | | Subscribers | 2,000 | 25,000 | Unlimited | | Templates | 5 | 50 | Unlimited | | A/B Testing | ❌ | ✅ | ✅ | | Priority Support | ❌ | ✅ | ✅ | | Custom Domain | ❌ | ❌ | ✅ | | Price | $0 | $49/mo | Custom |</p>\n<h3 id=\"campaign-performance-comparison\">Campaign Performance Comparison</h3>\n<p>| Month | Emails Sent | Open Rate | Click Rate | Conversions | | --------- | ----------- | --------- | ---------- | ----------- | | January | 45,230 | 24.5% | 3.2% | 147 | | February | 52,100 | 28.3% | 4.1% | 203 | | March | 61,450 | 31.7% | 5.8% | 289 | | <strong>Total</strong> | <strong>158,780</strong> | <strong>28.2%</strong> | <strong>4.4%</strong> | <strong>639</strong> |</p>\n<hr>\n<h2 id=\"images-visual-storytelling\">Images: Visual Storytelling</h2>\n<p>While we can’t embed images directly in markdown, we can reference them:</p>\n<p><img alt=\"Email Marketing Dashboard Screenshot\" src=\"/images/blog/featured-image-3.jpg\"></p>\n<p><em>Above: Our beautiful analytics dashboard showing real-time campaign performance</em></p>\n<p><img alt=\"Happy customer reading email\" src=\"/images/blog/blog-thumb-5.jpg\"></p>\n<p><strong>Image best practices for emails:</strong></p>\n<ul>\n<li>Always include alt text for accessibility</li>\n<li>Optimize file sizes for faster loading</li>\n<li>Use descriptive filenames</li>\n<li>Test image rendering across email clients</li>\n</ul>\n<hr>\n<h2 id=\"horizontal-rules-section-dividers\">Horizontal Rules: Section Dividers</h2>\n<p>Sometimes you need a visual break between sections. That’s where horizontal rules come in:</p>\n<hr>\n<hr>\n<hr>\n<p>All three of these create horizontal lines, but they give your content breathing room and help readers navigate longer emails.</p>\n<hr>\n<h2 id=\"task-lists-interactive-checkboxes\">Task Lists: Interactive Checkboxes</h2>\n<p>Want to create an interactive checklist for your readers?</p>\n<ul>\n<li>[x] Create an account</li>\n<li>[x] Verify your email address</li>\n<li>[x] Import your first contacts</li>\n<li>[ ] Design your first campaign</li>\n<li>[ ] Set up automation workflows</li>\n<li>[ ] Launch your welcome series</li>\n</ul>\n<hr>\n<h2 id=\"emojis-adding-personality\">Emojis: Adding Personality 🎉</h2>\n<p>Modern email campaigns aren’t complete without emojis! They increase open rates and make your subject lines pop:</p>\n<ul>\n<li>📧 Email-related: ✉️ 📮 📨 📩</li>\n<li>Success indicators: ✅ ✔️ 💯 🎯 ⭐</li>\n<li>Attention grabbers: 🔥 ⚡ 💡 🚀 💎</li>\n<li>Celebrations: 🎉 🎊 🥳 🎈 🏆</li>\n<li>Time-sensitive: ⏰ ⏱️ ⌛ 🕐 ⏳</li>\n</ul>\n<p><strong>Subject line examples:</strong></p>\n<ul>\n<li>”🚀 Launch Day: Your Campaign Goes Live!”</li>\n<li>”⏰ Last Chance: Sale Ends Tonight”</li>\n<li>”💡 5 Email Tips That Changed Everything”</li>\n<li>”🎉 You’ve Reached 10,000 Subscribers!”</li>\n</ul>\n<hr>\n<h2 id=\"nested-content-going-deeper\">Nested Content: Going Deeper</h2>\n<p>Sometimes you need to nest content within content:</p>\n<ol>\n<li>\n<p><strong>Planning Phase</strong></p>\n<ul>\n<li>Define your audience\n<ul>\n<li>Demographics</li>\n<li>Interests</li>\n<li>Pain points</li>\n</ul>\n</li>\n<li>Set clear goals\n<ul>\n<li>Open rate targets</li>\n<li>Click-through goals</li>\n<li>Conversion objectives</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Creation Phase</strong></p>\n<blockquote>\n<p>Start with a compelling subject line</p>\n</blockquote>\n<pre class=\"astro-code github-dark\" data-language=\"plaintext\" style=\"background-color:#24292e;color:#e1e4e8; overflow-x: auto;\" tabindex=\"0\"><code><span class=\"line\"><span>Subject: [First Name], your exclusive offer awaits...</span></span>\n<span class=\"line\"><span>Preview: Open within 24 hours for an extra 20% off</span></span></code></pre>\n<ul>\n<li>Draft your content</li>\n<li>Add personalization tokens</li>\n<li>Include clear CTAs</li>\n</ul>\n</li>\n<li>\n<p><strong>Testing Phase</strong></p>\n<ul>\n<li>Send test emails</li>\n<li>Check on multiple devices</li>\n<li>Verify all links work</li>\n</ul>\n</li>\n</ol>\n<hr>\n<h2 id=\"escape-characters-when-you-need-the-raw-symbol\">Escape Characters: When You Need the Raw Symbol</h2>\n<p>Sometimes you need to show markdown characters without them being formatted:</p>\n<ul>\n<li>Use a backslash \\ before special characters</li>\n<li>Like this: *not italic* and **not bold**</li>\n<li>Or this: [not a link](<a href=\"https://example.com\">https://example.com</a>)</li>\n<li>And this: # Not a heading</li>\n</ul>\n<hr>\n<h2 id=\"html-within-markdown-the-power-combo\">HTML Within Markdown: The Power Combo</h2>\n<p>For advanced users, you can mix HTML into your markdown:</p>\n<div style=\"background: #f0f0f0; padding: 20px; border-radius: 8px; margin: 20px 0;\">\n<strong>💡 Pro Tip:</strong> You can use HTML for advanced styling that markdown doesn't support!\n</div>\n<details>\n<summary><strong>Click to reveal advanced email tips</strong></summary>\n<ul>\n<li>Segment your audience for targeted campaigns</li>\n<li>Use dynamic content based on user behavior</li>\n<li>Test different send times for optimal engagement</li>\n<li>Clean your list regularly to maintain deliverability</li>\n<li>Personalize beyond just the first name</li>\n</ul>\n</details>\n<hr>\n<h2 id=\"mathematical-expressions-for-the-data-nerds\">Mathematical Expressions: For the Data Nerds</h2>\n<p>While not all markdown processors support this, you can include mathematical formulas:</p>\n<p>The email open rate formula: <code>Open Rate = (Unique Opens / Delivered Emails) × 100</code></p>\n<p>Our average click-to-open rate: <code>CTOR = (Unique Clicks / Unique Opens) × 100 = 23.5%</code></p>\n<hr>\n<h2 id=\"putting-it-all-together-a-real-campaign-example\">Putting It All Together: A Real Campaign Example</h2>\n<p>Here’s how you might combine multiple markdown elements in an actual email campaign:</p>\n<hr>\n<h3 id=\"-this-months-newsletter-boost-your-email-roi\">🎯 This Month’s Newsletter: Boost Your Email ROI</h3>\n<p>Hi <strong>[First Name]</strong>,</p>\n<p>We’ve got some <em>exciting updates</em> to share! Our latest features are designed to help you <strong>increase engagement by up to 40%</strong>.</p>\n<h4 id=\"-your-campaign-stats-last-30-days\">📊 Your Campaign Stats (Last 30 Days)</h4>\n<p>| Metric | Your Account | Industry Average | | ---------- | ------------ | ---------------- | | Open Rate | <strong>32.5%</strong> | 21.3% | | Click Rate | <strong>5.8%</strong> | 3.2% | | Conversion | <strong>2.1%</strong> | 1.4% |</p>\n<p>You’re <strong>crushing it!</strong> 🎉</p>\n<h4 id=\"-new-features-just-for-you\">🚀 New Features Just for You</h4>\n<ol>\n<li><strong>AI-Powered Send Time Optimization</strong>\n<ul>\n<li>Analyzes subscriber behavior</li>\n<li>Sends at optimal times automatically</li>\n<li>Average 25% improvement in opens</li>\n</ul>\n</li>\n<li><strong>Advanced Segmentation Builder</strong>\n<ul>\n<li>Drag-and-drop interface</li>\n<li>Unlimited custom segments</li>\n<li>Real-time preview of audience size</li>\n</ul>\n</li>\n<li><strong>Dynamic Content Blocks</strong>\n<ul>\n<li>Personalize entire sections</li>\n<li>Show different content to different segments</li>\n<li>A/B test variations automatically</li>\n</ul>\n</li>\n</ol>\n<blockquote>\n<p>“The new send time optimization alone increased our open rates by 28%. Absolutely worth upgrading!”</p>\n<p>— Michael Chen, E-commerce Manager</p>\n</blockquote>\n<h4 id=\"-your-action-items-this-week\">✅ Your Action Items This Week</h4>\n<ul>\n<li>[ ] Try the new segmentation builder</li>\n<li>[ ] Enable send time optimization</li>\n<li>[ ] Schedule your next campaign</li>\n<li>[ ] Review your analytics dashboard</li>\n</ul>\n<p><a href=\"https://example.com/dashboard\"><strong>Start Your Next Campaign →</strong></a></p>\n<hr>\n<p><strong>Questions?</strong> Reply to this email or <a href=\"https://example.com/help\">visit our help center</a>.</p>\n<p>Happy sending! 📧</p>\n<p>The Email Team</p>\n<hr>\n<h2 id=\"conclusion-markdown-mastery-achieved\">Conclusion: Markdown Mastery Achieved! 🏆</h2>\n<p>Congratulations! You’ve just seen <strong>every markdown element</strong> you’ll ever need for creating stunning email campaigns. From basic text formatting to complex tables and code blocks, you now have the complete toolkit.</p>\n<h3 id=\"quick-recap-of-what-youve-learned\">Quick Recap of What You’ve Learned:</h3>\n<ul>\n<li><strong>Headings</strong> for structure (H1-H6)</li>\n<li><strong>Text formatting</strong> (bold, italic, strikethrough, code)</li>\n<li><strong>Lists</strong> (ordered, unordered, nested)</li>\n<li><strong>Links</strong> (inline and reference-style)</li>\n<li><strong>Blockquotes</strong> for emphasis and testimonials</li>\n<li><strong>Code blocks</strong> for technical content</li>\n<li><strong>Tables</strong> for data visualization</li>\n<li><strong>Images</strong> with alt text</li>\n<li><strong>Horizontal rules</strong> for section breaks</li>\n<li><strong>Task lists</strong> for interactive content</li>\n<li><strong>Emojis</strong> for personality</li>\n<li><strong>HTML integration</strong> for advanced styling</li>\n</ul>\n<h3 id=\"ready-to-send-your-best-email-yet\">Ready to Send Your Best Email Yet?</h3>\n<p><a href=\"https://example.com/signup\"><strong>Get Started Free →</strong></a> | <a href=\"https://example.com/templates\"><strong>View Templates →</strong></a> | <a href=\"https://example.com/docs\"><strong>Read Docs →</strong></a></p>\n<hr>\n<p><em>P.S. Bookmark this page as your markdown reference guide—you’ll want to come back to it!</em> 📚</p>\n<p><strong>Tags:</strong> #EmailMarketing #Markdown #Tutorial #ContentCreation #NewsletterTips #EmailDesign</p>\n<hr>\n<p><strong>Share this guide:</strong></p>\n<ul>\n<li><a href=\"https://twitter.com/intent/tweet\">Tweet this</a></li>\n<li><a href=\"https://linkedin.com/share\">Share on LinkedIn</a></li>\n<li><a href=\"mailto:?subject=Check%20out%20this%20markdown%20guide\">Email to a friend</a></li>\n</ul>\n<p><strong>Related Reading:</strong></p>\n<ul>\n<li><a href=\"#\">5 Things to Improve Your Email Templates</a></li>\n<li><a href=\"#\">Best Email Sending Services</a></li>\n<li><a href=\"#\">How to Host Better Email Marketing Campaigns</a></li>\n</ul>\n<hr>\n<small>\nLast updated: November 15, 2024 | Written by Markdown McEmailface | Reading time: 12 minutes\n</small>  "
+  },
+  "blog-blog-showcase:post:minutes": {
+    "original": "minutes",
+    "value": "minutes",
+    "_base_original": "minutes"
+  },
+  "blog-blog-showcase:post:title": {
+    "original": " Blog Showcase: The Ultimate Email Markdown Styling Guide ",
+    "value": " Blog Showcase: The Ultimate Email Markdown Styling Guide ",
+    "_base_original": " Blog Showcase: The Ultimate Email Markdown Styling Guide "
+  },
+  "blog-blog-showcase:post:words": {
+    "original": "words",
+    "value": "words",
+    "_base_original": "words"
+  },
+  "blog-blog-showcase:recent:post-5-things-to-improve-your-email-templates:title": {
+    "original": "5 things to improve your email templates",
+    "value": "5 things to improve your email templates",
+    "_base_original": "5 things to improve your email templates"
+  },
+  "blog-blog-showcase:recent:post-7-things-you-didnt-know-about-email:title": {
+    "original": "7 things you didn't know about email",
+    "value": "7 things you didn't know about email",
+    "_base_original": "7 things you didn't know about email"
+  },
+  "blog-blog-showcase:recent:post-best-email-sending-services:title": {
+    "original": "Best email sending services",
+    "value": "Best email sending services",
+    "_base_original": "Best email sending services"
+  },
+  "blog-email-delivery-tips:post:content": {
+    "original": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  ",
+    "value": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  ",
+    "_base_original": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  "
+  },
+  "blog-email-delivery-tips:post:minutes": {
+    "original": "minutes",
+    "value": "minutes",
+    "_base_original": "minutes"
+  },
+  "blog-email-delivery-tips:post:title": {
+    "original": " Email delivery tips ",
+    "value": " Email delivery tips ",
+    "_base_original": " Email delivery tips "
+  },
+  "blog-email-delivery-tips:post:words": {
+    "original": "words",
+    "value": "words",
+    "_base_original": "words"
+  },
+  "blog-email-delivery-tips:recent:post-5-things-to-improve-your-email-templates:title": {
+    "original": "5 things to improve your email templates",
+    "value": "5 things to improve your email templates",
+    "_base_original": "5 things to improve your email templates"
+  },
+  "blog-email-delivery-tips:recent:post-7-things-you-didnt-know-about-email:title": {
+    "original": "7 things you didn't know about email",
+    "value": "7 things you didn't know about email",
+    "_base_original": "7 things you didn't know about email"
+  },
+  "blog-email-delivery-tips:recent:post-best-email-sending-services:title": {
+    "original": "Best email sending services",
+    "value": "Best email sending services",
+    "_base_original": "Best email sending services"
+  },
+  "blog-how-to-host-better-email-marketing-campaigns:post:content": {
+    "original": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  ",
+    "value": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  ",
+    "_base_original": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  "
+  },
+  "blog-how-to-host-better-email-marketing-campaigns:post:minutes": {
+    "original": "minutes",
+    "value": "minutes",
+    "_base_original": "minutes"
+  },
+  "blog-how-to-host-better-email-marketing-campaigns:post:title": {
+    "original": " How to host better email marketing campaigns? ",
+    "value": " How to host better email marketing campaigns? ",
+    "_base_original": " How to host better email marketing campaigns? "
+  },
+  "blog-how-to-host-better-email-marketing-campaigns:post:words": {
+    "original": "words",
+    "value": "words",
+    "_base_original": "words"
+  },
+  "blog-how-to-host-better-email-marketing-campaigns:recent:post-5-things-to-improve-your-email-templates:title": {
+    "original": "5 things to improve your email templates",
+    "value": "5 things to improve your email templates",
+    "_base_original": "5 things to improve your email templates"
+  },
+  "blog-how-to-host-better-email-marketing-campaigns:recent:post-7-things-you-didnt-know-about-email:title": {
+    "original": "7 things you didn't know about email",
+    "value": "7 things you didn't know about email",
+    "_base_original": "7 things you didn't know about email"
+  },
+  "blog-how-to-host-better-email-marketing-campaigns:recent:post-best-email-sending-services:title": {
+    "original": "Best email sending services",
+    "value": "Best email sending services",
+    "_base_original": "Best email sending services"
+  },
+  "blog-what-are-the-best-email-clients:post:content": {
+    "original": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  ",
+    "value": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  ",
+    "_base_original": "  <p>When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers’ spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.</p>\n<h3 id=\"use-an-esp\">Use an ESP</h3>\n<p>Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.</p>\n<p>Be aware of what’s normal for your target customers’ inboxes. If you’re sending out emails to people who are on Gmail and Yahoo accounts, then there’s little chance they’ll get blocked because their addresses haven’t been flagged as spam yet. But if you’re reaching out to people with Outlook or AOL addresses, there’s a good chance your message will get flagged as junk mail and end up in their spam folder before they ever see it. Make sure you’re testing different types of addresses before sending out any mass marketing campaigns.</p>\n<h3 id=\"double-opt-in\">Double opt-in</h3>\n<p>Before you send out any campaign using an email marketing tool, make sure that you have permission from your subscribers to send them emails. You can do this by asking them during signup or including a checkbox in the subscription form asking if they’d like to receive marketing communications from you in the future.</p>\n<p>Use double opt-in when sending out marketing emails. This means that the recipient must have previously agreed to receive emails from you before they can see content in their inboxes or on their mobile devices. This helps prevent people from signing up for newsletters they don’t want and can help protect against spam complaints from users who didn’t know they had signed up for something in the first place.</p>\n<h3 id=\"keep-your-content-short-and-sweet\">Keep your content short and sweet</h3>\n<p>Your customers don’t want to read lengthy emails full of text, so keep your messages short and sweet. If you have multiple products to promote, break up each product offer into its own email instead of sending one page-long message with multiple links embedded in it. That way, customers can easily find what they’re looking for without having to scroll all over the page.</p>\n<p>Use images sparingly (if at all). You might be tempted to include an image in every email you send out, but it’s important to remember that images can cause problems when it comes to inbox delivery — particularly when they’re used incorrectly or included in bulk emails from companies where the receiver doesn’t know who sent them. If you’re going</p>\n<h3 id=\"tracking\">Tracking</h3>\n<p>Choose a reliable ESP that allows you to track opens and clicks so you can figure out which types of messages work best for your audience.</p>\n<h3 id=\"send-your-best-email\">Send your best email</h3>\n<p>So, remember to keep this in mind and to always know that if you are sending out emails related to your business, be sure to follow-up with customers or clients and make sure that they are getting their emails in a timely manner.</p>  "
+  },
+  "blog-what-are-the-best-email-clients:post:minutes": {
+    "original": "minutes",
+    "value": "minutes",
+    "_base_original": "minutes"
+  },
+  "blog-what-are-the-best-email-clients:post:title": {
+    "original": " What are the best email clients? ",
+    "value": " What are the best email clients? ",
+    "_base_original": " What are the best email clients? "
+  },
+  "blog-what-are-the-best-email-clients:post:words": {
+    "original": "words",
+    "value": "words",
+    "_base_original": "words"
+  },
+  "blog-what-are-the-best-email-clients:recent:post-5-things-to-improve-your-email-templates:title": {
+    "original": "5 things to improve your email templates",
+    "value": "5 things to improve your email templates",
+    "_base_original": "5 things to improve your email templates"
+  },
+  "blog-what-are-the-best-email-clients:recent:post-7-things-you-didnt-know-about-email:title": {
+    "original": "7 things you didn't know about email",
+    "value": "7 things you didn't know about email",
+    "_base_original": "7 things you didn't know about email"
+  },
+  "blog-what-are-the-best-email-clients:recent:post-best-email-sending-services:title": {
+    "original": "Best email sending services",
+    "value": "Best email sending services",
+    "_base_original": "Best email sending services"
+  },
+  "contact:global-form-1:address_heading": {
+    "original": "Contact Details",
+    "value": "Contact Details",
+    "_base_original": "Contact Details"
+  },
+  "contact:global-form-1:address_text": {
+    "original": "123 Train St, San Francisco, CA 9107",
+    "value": "123 Train St, San Francisco, CA 9107",
+    "_base_original": "123 Train St, San Francisco, CA 9107"
+  },
+  "contact:global-form-1:email_heading": {
+    "original": "Email",
+    "value": "Email",
+    "_base_original": "Email"
+  },
+  "contact:global-form-1:email_label": {
+    "original": "Email Address",
+    "value": "Email Address",
+    "_base_original": "Email Address"
+  },
+  "contact:global-form-1:email_text": {
+    "original": "info@example.com",
+    "value": "info@example.com",
+    "_base_original": "info@example.com"
+  },
+  "contact:global-form-1:form_heading": {
+    "original": "Say Hello",
+    "value": "Say Hello",
+    "_base_original": "Say Hello"
+  },
+  "contact:global-form-1:fullname_label": {
+    "original": "Full Name",
+    "value": "Full Name",
+    "_base_original": "Full Name"
+  },
+  "contact:global-form-1:message_label": {
+    "original": "Your Messages",
+    "value": "Your Messages",
+    "_base_original": "Your Messages"
+  },
+  "contact:global-form-1:phone_cell": {
+    "original": "(123) 456 - 7895",
+    "value": "(123) 456 - 7895",
+    "_base_original": "(123) 456 - 7895"
+  },
+  "contact:global-form-1:phone_heading": {
+    "original": "Phone",
+    "value": "Phone",
+    "_base_original": "Phone"
+  },
+  "contact:global-form-1:phone_number_label": {
+    "original": "Phone number",
+    "value": "Phone number",
+    "_base_original": "Phone number"
+  },
+  "contact:global-form-1:submit_button_text": {
+    "original": "Send message",
+    "value": "Send message",
+    "_base_original": "Send message"
+  },
+  "contact:global-simple-hero-0:description": {
+    "original": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n",
+    "value": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n",
+    "_base_original": "<p>Have a question or suggestion? Feel free to drop us a message!</p>\n"
+  },
+  "contact:global-simple-hero-0:title": {
+    "original": "Let's talk.",
+    "value": "Let's talk.",
+    "_base_original": "Let's talk."
+  },
+  "description": {
+    "original": "",
+    "value": "",
+    "_base_original": ""
+  },
+  "features:global-feature-2:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
+  },
+  "features:global-feature-2:description": {
+    "original": "<p>Make your message stand out, thanks to the guided copywriting and design features, triggering a positive response from your customers.</p>\n",
+    "value": "<p>Make your message stand out, thanks to the guided copywriting and design features, triggering a positive response from your customers.</p>\n",
+    "_base_original": "<p>Make your message stand out, thanks to the guided copywriting and design features, triggering a positive response from your customers.</p>\n"
+  },
+  "features:global-feature-2:title": {
+    "original": " Simply click and send ",
+    "value": " Simply click and send ",
+    "_base_original": " Simply click and send "
+  },
+  "features:global-feature-3:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
+  },
+  "features:global-feature-3:description": {
+    "original": "<p>Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.</p>\n",
+    "value": "<p>Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.</p>\n",
+    "_base_original": "<p>Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.</p>\n"
+  },
+  "features:global-feature-3:title": {
+    "original": " See every lead in one place ",
+    "value": " See every lead in one place ",
+    "_base_original": " See every lead in one place "
+  },
+  "features:global-feature-4:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
+  },
+  "features:global-feature-4:description": {
+    "original": "<p>Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.</p>\n",
+    "value": "<p>Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.</p>\n",
+    "_base_original": "<p>Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.</p>\n"
+  },
+  "features:global-feature-4:title": {
+    "original": " Free templates to get you started ",
+    "value": " Free templates to get you started ",
+    "_base_original": " Free templates to get you started "
+  },
+  "features:global-header-1:description": {
+    "original": "<p>Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.</p>\n",
+    "value": "<p>Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.</p>\n",
+    "_base_original": "<p>Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.</p>\n"
+  },
+  "features:global-header-1:title": {
+    "original": "Sendit ",
+    "value": "Sendit ",
+    "_base_original": "Sendit "
+  },
+  "features:global-header-1:title_suffix": {
+    "original": "Features",
+    "value": "Features",
+    "_base_original": "Features"
+  },
+  "features:global-hero-0:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
+  },
+  "features:global-hero-0:description": {
+    "original": "<p>Sendit will change the way you think about email and marketing automation.</p>\n",
+    "value": "<p>Sendit will change the way you think about email and marketing automation.</p>\n",
+    "_base_original": "<p>Sendit will change the way you think about email and marketing automation.</p>\n"
+  },
+  "features:global-hero-0:title": {
+    "original": " Run the best campaigns ",
+    "value": " Run the best campaigns ",
+    "_base_original": " Run the best campaigns "
+  },
+  "features:global-testimonial-5:0:message": {
+    "original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
+    "value": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
+    "_base_original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. "
+  },
+  "features:global-testimonial-5:1:message": {
+    "original": " Wow, what a difference Sendit has made. My customers are more engaged than ever. ",
+    "value": " Wow, what a difference Sendit has made. My customers are more engaged than ever. ",
+    "_base_original": " Wow, what a difference Sendit has made. My customers are more engaged than ever. "
+  },
+  "features:global-testimonial-5:2:message": {
+    "original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
+    "value": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
+    "_base_original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. "
+  },
+  "features:global-testimonial-5:description": {
+    "original": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n",
+    "value": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n",
+    "_base_original": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n"
+  },
+  "features:global-testimonial-5:title": {
+    "original": "Build relationships that",
+    "value": "Build relationships that",
+    "_base_original": "Build relationships that"
+  },
+  "features:global-testimonial-5:title_suffix": {
+    "original": " last ",
+    "value": " last ",
+    "_base_original": " last "
+  },
+  "footer:copyright": {
+    "original": "MyCompany. All rights reserved.",
+    "value": "MyCompany. All rights reserved.",
+    "_base_original": "MyCompany. All rights reserved."
+  },
+  "footer:section-0:link-0:text": {
+    "original": "Home",
+    "value": "Home",
+    "_base_original": "Home"
+  },
+  "footer:section-0:link-1:text": {
+    "original": "Features",
+    "value": "Features",
+    "_base_original": "Features"
+  },
+  "footer:section-0:link-2:text": {
+    "original": "Price",
+    "value": "Price",
+    "_base_original": "Price"
+  },
+  "footer:section-0:link-3:text": {
+    "original": "About",
+    "value": "About",
+    "_base_original": "About"
+  },
+  "footer:section-0:title": {
+    "original": "Main Pages",
+    "value": "Main Pages",
+    "_base_original": "Main Pages"
+  },
+  "footer:section-1:link-0:text": {
+    "original": "Blog",
+    "value": "Blog",
+    "_base_original": "Blog"
+  },
+  "footer:section-1:link-1:text": {
+    "original": "RSS Feed",
+    "value": "RSS Feed",
+    "_base_original": "RSS Feed"
+  },
+  "footer:section-1:title": {
+    "original": "Community",
+    "value": "Community",
+    "_base_original": "Community"
+  },
+  "footer:section-2:link-0:text": {
+    "original": "Contact",
+    "value": "Contact",
+    "_base_original": "Contact"
+  },
+  "footer:section-2:title": {
+    "original": "Company",
+    "value": "Company",
+    "_base_original": "Company"
+  },
+  "index:global-counter-1:0:text": {
+    "original": " Venture capital raised ",
+    "value": " Venture capital raised ",
+    "_base_original": " Venture capital raised "
+  },
+  "index:global-counter-1:1:text": {
+    "original": " Established in ",
+    "value": " Established in ",
+    "_base_original": " Established in "
+  },
+  "index:global-counter-1:2:text": {
+    "original": " Amazing team members ",
+    "value": " Amazing team members ",
+    "_base_original": " Amazing team members "
+  },
+  "index:global-counter-1:3:text": {
+    "original": " Active users and growing ",
+    "value": " Active users and growing ",
+    "_base_original": " Active users and growing "
+  },
+  "index:global-counter-1:description": {
+    "original": "<p>We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.</p>\n",
+    "value": "<p>We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.</p>\n",
+    "_base_original": "<p>We have an extensive library of pre-written sales emails, proven marketing templates, and more to get you started on your next project.</p>\n"
+  },
+  "index:global-counter-1:title": {
+    "original": "Scale your",
+    "value": "Scale your",
+    "_base_original": "Scale your"
+  },
+  "index:global-counter-1:title_suffix": {
+    "original": " Business ",
+    "value": " Business ",
+    "_base_original": " Business "
+  },
+  "index:global-feature-4:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
+  },
+  "index:global-feature-4:description": {
+    "original": "<p>Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.</p>\n",
+    "value": "<p>Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.</p>\n",
+    "_base_original": "<p>Send an email campaign with one click, in just minutes. Automate your emails and content, while keeping the human touch.</p>\n"
+  },
+  "index:global-feature-4:title": {
+    "original": " Email Campaign in one minute ",
+    "value": " Email Campaign in one minute ",
+    "_base_original": " Email Campaign in one minute "
+  },
+  "index:global-feature-5:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
+  },
+  "index:global-feature-5:description": {
+    "original": "<p>Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.</p>\n",
+    "value": "<p>Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.</p>\n",
+    "_base_original": "<p>Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from.</p>\n"
+  },
+  "index:global-feature-5:title": {
+    "original": " See every Lead in one Place ",
+    "value": " See every Lead in one Place ",
+    "_base_original": " See every Lead in one Place "
+  },
+  "index:global-feature-6:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
+  },
+  "index:global-feature-6:description": {
+    "original": "<p>Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.</p>\n",
+    "value": "<p>Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.</p>\n",
+    "_base_original": "<p>Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes.</p>\n"
+  },
+  "index:global-feature-6:title": {
+    "original": " 100% free uploads ",
+    "value": " 100% free uploads ",
+    "_base_original": " 100% free uploads "
+  },
+  "index:global-header-3:description": {
+    "original": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n",
+    "value": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n",
+    "_base_original": "<p>Our platform offers the most advanced features including automated email content creation, dynamic personalization, and customer segmentation.</p>\n"
+  },
+  "index:global-header-3:title": {
+    "original": "Sendit ",
+    "value": "Sendit ",
+    "_base_original": "Sendit "
+  },
+  "index:global-header-3:title_suffix": {
+    "original": "Features",
+    "value": "Features",
+    "_base_original": "Features"
+  },
+  "index:global-hero-0:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
+  },
+  "index:global-hero-0:description": {
+    "original": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
+    "value": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n",
+    "_base_original": "<p>With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.</p>\n"
+  },
+  "index:global-hero-0:title": {
+    "original": " Beautiful web campaigns ",
+    "value": " Beautiful web campaigns ",
+    "_base_original": " Beautiful web campaigns "
+  },
+  "index:global-testimonial-7:0:message": {
+    "original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
+    "value": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. ",
+    "_base_original": " Sendit has taken Clear Appeal to the next level with its beautiful email campaigns. "
+  },
+  "index:global-testimonial-7:1:message": {
+    "original": " Wow, what a difference Sendit has made. My customers are more engaged than ever. ",
+    "value": " Wow, what a difference Sendit has made. My customers are more engaged than ever. ",
+    "_base_original": " Wow, what a difference Sendit has made. My customers are more engaged than ever. "
+  },
+  "index:global-testimonial-7:2:message": {
+    "original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
+    "value": " I can't imagine life without Sendit now, I have no idea how we were surviving before. ",
+    "_base_original": " I can't imagine life without Sendit now, I have no idea how we were surviving before. "
+  },
+  "index:global-testimonial-7:description": {
+    "original": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n",
+    "value": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n",
+    "_base_original": "<p>Customers from around the world are building game changing email marketing campaigns.</p>\n"
+  },
+  "index:global-testimonial-7:title": {
+    "original": "Build relationships that",
+    "value": "Build relationships that",
+    "_base_original": "Build relationships that"
+  },
+  "index:global-testimonial-7:title_suffix": {
+    "original": " last ",
+    "value": " last ",
+    "_base_original": " last "
+  },
+  "index:global-video-2:video_player_title": {
+    "original": "Video Player",
+    "value": "Video Player",
+    "_base_original": "Video Player"
+  },
+  "login:global-login-0:checkbox_text": {
+    "original": "Remember Me",
+    "value": "Remember Me",
+    "_base_original": "Remember Me"
+  },
+  "login:global-login-0:email_label": {
+    "original": "Email Address",
+    "value": "Email Address",
+    "_base_original": "Email Address"
+  },
+  "login:global-login-0:forget_password": {
+    "original": " Forget Password ",
+    "value": " Forget Password ",
+    "_base_original": " Forget Password "
+  },
+  "login:global-login-0:fullname_label": {
+    "original": "Full Name",
+    "value": "Full Name",
+    "_base_original": "Full Name"
+  },
+  "login:global-login-0:log_in_text": {
+    "original": "Log In",
+    "value": "Log In",
+    "_base_original": "Log In"
+  },
+  "login:global-login-0:or_divider": {
+    "original": "or",
+    "value": "or",
+    "_base_original": "or"
+  },
+  "login:global-login-0:sign_in_facebook": {
+    "original": "Sign In with Facebook",
+    "value": "Sign In with Facebook",
+    "_base_original": "Sign In with Facebook"
+  },
+  "login:global-login-0:sign_in_google": {
+    "original": "Sign In with Google",
+    "value": "Sign In with Google",
+    "_base_original": "Sign In with Google"
+  },
+  "login:global-login-0:sign_up_text": {
+    "original": "Create an Account",
+    "value": "Create an Account",
+    "_base_original": "Create an Account"
+  },
+  "login:global-login-0:title": {
+    "original": " Log In ",
+    "value": " Log In ",
+    "_base_original": " Log In "
+  },
+  "nav:0:text": {
+    "original": "Home",
+    "value": "Home",
+    "_base_original": "Home"
+  },
+  "nav:1:text": {
+    "original": "Features",
+    "value": "Features",
+    "_base_original": "Features"
+  },
+  "nav:2:text": {
+    "original": "Pricing",
+    "value": "Pricing",
+    "_base_original": "Pricing"
+  },
+  "nav:3:text": {
+    "original": "About",
+    "value": "About",
+    "_base_original": "About"
+  },
+  "nav:4:0:dropdown_text": {
+    "original": "All Articles",
+    "value": "All Articles",
+    "_base_original": "All Articles"
+  },
+  "nav:4:1:dropdown_text": {
+    "original": "Blog Showcase",
+    "value": "Blog Showcase",
+    "_base_original": "Blog Showcase"
+  },
+  "nav:4:2:dropdown_text": {
+    "original": "Marketing",
+    "value": "Marketing",
+    "_base_original": "Marketing"
+  },
+  "nav:4:3:dropdown_text": {
+    "original": "Technology",
+    "value": "Technology",
+    "_base_original": "Technology"
+  },
+  "nav:4:text": {
+    "original": "Blog",
+    "value": "Blog",
+    "_base_original": "Blog"
+  },
+  "nav:5:text": {
+    "original": "Contact",
+    "value": "Contact",
+    "_base_original": "Contact"
+  },
+  "nav:nav_btn_text": {
+    "original": "Get Started",
+    "value": "Get Started",
+    "_base_original": "Get Started"
+  },
+  "post-5-things-to-improve-your-email-templates:title": {
+    "original": "5 things to improve your email templates",
+    "value": "5 things to improve your email templates",
+    "_base_original": "5 things to improve your email templates"
+  },
+  "post-7-things-you-didnt-know-about-email:title": {
+    "original": "7 things you didn't know about email",
+    "value": "7 things you didn't know about email",
+    "_base_original": "7 things you didn't know about email"
+  },
+  "post-best-email-sending-services:title": {
+    "original": "Best email sending services",
+    "value": "Best email sending services",
+    "_base_original": "Best email sending services"
+  },
+  "post-blog-showcase:title": {
+    "original": "Blog Showcase: The Ultimate Email Markdown Styling Guide",
+    "value": "Blog Showcase: The Ultimate Email Markdown Styling Guide",
+    "_base_original": "Blog Showcase: The Ultimate Email Markdown Styling Guide"
+  },
+  "post-email-delivery-tips:title": {
+    "original": "Email delivery tips",
+    "value": "Email delivery tips",
+    "_base_original": "Email delivery tips"
+  },
+  "post-how-to-host-better-email-marketing-campaigns:title": {
+    "original": "How to host better email marketing campaigns?",
+    "value": "How to host better email marketing campaigns?",
+    "_base_original": "How to host better email marketing campaigns?"
+  },
+  "post-what-are-the-best-email-clients:title": {
+    "original": "What are the best email clients?",
+    "value": "What are the best email clients?",
+    "_base_original": "What are the best email clients?"
+  },
+  "pricing:global-faq-2:0:description": {
+    "original": "",
+    "value": "",
+    "_base_original": ""
+  },
+  "pricing:global-faq-2:0:title": {
+    "original": "",
+    "value": "",
+    "_base_original": ""
+  },
+  "pricing:global-faq-2:1:description": {
+    "original": "<p>Right here on this website, or contact our support team.</p>\n",
+    "value": "<p>Right here on this website, or contact our support team.</p>\n",
+    "_base_original": "<p>Right here on this website, or contact our support team.</p>\n"
+  },
+  "pricing:global-faq-2:1:title": {
+    "original": "Where can I find out more information?",
+    "value": "Where can I find out more information?",
+    "_base_original": "Where can I find out more information?"
+  },
+  "pricing:global-faq-2:2:description": {
+    "original": "<p>Yes, contact our support team and we'll get you set up on our non-profit plan.</p>\n",
+    "value": "<p>Yes, contact our support team and we'll get you set up on our non-profit plan.</p>\n",
+    "_base_original": "<p>Yes, contact our support team and we'll get you set up on our non-profit plan.</p>\n"
+  },
+  "pricing:global-faq-2:2:title": {
+    "original": "Do you have pricing for non-profits?",
+    "value": "Do you have pricing for non-profits?",
+    "_base_original": "Do you have pricing for non-profits?"
+  },
+  "pricing:global-faq-2:3:description": {
+    "original": "<p>We accept credit cards, checks, and cash.</p>\n",
+    "value": "<p>We accept credit cards, checks, and cash.</p>\n",
+    "_base_original": "<p>We accept credit cards, checks, and cash.</p>\n"
+  },
+  "pricing:global-faq-2:3:title": {
+    "original": "What forms of payment do you accept?",
+    "value": "What forms of payment do you accept?",
+    "_base_original": "What forms of payment do you accept?"
+  },
+  "pricing:global-faq-2:4:description": {
+    "original": "<p>All payments are in <strong>USD</strong>.</p>\n",
+    "value": "<p>All payments are in <strong>USD</strong>.</p>\n",
+    "_base_original": "<p>All payments are in <strong>USD</strong>.</p>\n"
+  },
+  "pricing:global-faq-2:4:title": {
+    "original": "In which currencies can I make payments?",
+    "value": "In which currencies can I make payments?",
+    "_base_original": "In which currencies can I make payments?"
+  },
+  "pricing:global-faq-2:description": {
+    "original": "<p>We believe that a good email marketing strategy is the key to growth. So we're helping you grow your business with tools and resources that make email marketing easy.</p>\n",
+    "value": "<p>We believe that a good email marketing strategy is the key to growth. So we're helping you grow your business with tools and resources that make email marketing easy.</p>\n",
+    "_base_original": "<p>We believe that a good email marketing strategy is the key to growth. So we're helping you grow your business with tools and resources that make email marketing easy.</p>\n"
+  },
+  "pricing:global-faq-2:title": {
+    "original": "Have",
+    "value": "Have",
+    "_base_original": "Have"
+  },
+  "pricing:global-faq-2:title_suffix": {
+    "original": " Questions? ",
+    "value": " Questions? ",
+    "_base_original": " Questions? "
+  },
+  "pricing:global-pricing-table-1:0:0:item": {
+    "original": "1 Email Campaign",
+    "value": "1 Email Campaign",
+    "_base_original": "1 Email Campaign"
+  },
+  "pricing:global-pricing-table-1:0:1:item": {
+    "original": "1 Year Premium Support",
+    "value": "1 Year Premium Support",
+    "_base_original": "1 Year Premium Support"
+  },
+  "pricing:global-pricing-table-1:0:2:item": {
+    "original": "Regular Update for 1 Year",
+    "value": "Regular Update for 1 Year",
+    "_base_original": "Regular Update for 1 Year"
+  },
+  "pricing:global-pricing-table-1:0:3:item": {
+    "original": "90+ Widgets &amp; Extensions",
+    "value": "90+ Widgets &amp; Extensions",
+    "_base_original": "90+ Widgets &amp; Extensions"
+  },
+  "pricing:global-pricing-table-1:0:4:item": {
+    "original": "23+ Templates",
+    "value": "23+ Templates",
+    "_base_original": "23+ Templates"
+  },
+  "pricing:global-pricing-table-1:0:5:item": {
+    "original": "Over 800 Section Blocks",
+    "value": "Over 800 Section Blocks",
+    "_base_original": "Over 800 Section Blocks"
+  },
+  "pricing:global-pricing-table-1:0:6:item": {
+    "original": "Support",
+    "value": "Support",
+    "_base_original": "Support"
+  },
+  "pricing:global-pricing-table-1:0:7:item": {
+    "original": "3 filters",
+    "value": "3 filters",
+    "_base_original": "3 filters"
+  },
+  "pricing:global-pricing-table-1:0:8:item": {
+    "original": "Unlimited activity history",
+    "value": "Unlimited activity history",
+    "_base_original": "Unlimited activity history"
+  },
+  "pricing:global-pricing-table-1:0:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
+  },
+  "pricing:global-pricing-table-1:0:currency_symbol": {
+    "original": "$",
+    "value": "$",
+    "_base_original": "$"
+  },
+  "pricing:global-pricing-table-1:0:description": {
+    "original": " Everything you need to get started. ",
+    "value": " Everything you need to get started. ",
+    "_base_original": " Everything you need to get started. "
+  },
+  "pricing:global-pricing-table-1:0:price": {
+    "original": "0",
+    "value": "0",
+    "_base_original": "0"
+  },
+  "pricing:global-pricing-table-1:0:tier": {
+    "original": " Free ",
+    "value": " Free ",
+    "_base_original": " Free "
+  },
+  "pricing:global-pricing-table-1:1:0:item": {
+    "original": "1 Email Campaign",
+    "value": "1 Email Campaign",
+    "_base_original": "1 Email Campaign"
+  },
+  "pricing:global-pricing-table-1:1:1:item": {
+    "original": "1 Year Premium Support",
+    "value": "1 Year Premium Support",
+    "_base_original": "1 Year Premium Support"
+  },
+  "pricing:global-pricing-table-1:1:2:item": {
+    "original": "Regular Update for 1 Year",
+    "value": "Regular Update for 1 Year",
+    "_base_original": "Regular Update for 1 Year"
+  },
+  "pricing:global-pricing-table-1:1:3:item": {
+    "original": "90+ Widgets &amp; Extensions",
+    "value": "90+ Widgets &amp; Extensions",
+    "_base_original": "90+ Widgets &amp; Extensions"
+  },
+  "pricing:global-pricing-table-1:1:4:item": {
+    "original": "23+ Templates",
+    "value": "23+ Templates",
+    "_base_original": "23+ Templates"
+  },
+  "pricing:global-pricing-table-1:1:5:item": {
+    "original": "Over 800 Section Blocks",
+    "value": "Over 800 Section Blocks",
+    "_base_original": "Over 800 Section Blocks"
+  },
+  "pricing:global-pricing-table-1:1:6:item": {
+    "original": "Support",
+    "value": "Support",
+    "_base_original": "Support"
+  },
+  "pricing:global-pricing-table-1:1:7:item": {
+    "original": "3 filters",
+    "value": "3 filters",
+    "_base_original": "3 filters"
+  },
+  "pricing:global-pricing-table-1:1:8:item": {
+    "original": "Unlimited activity history",
+    "value": "Unlimited activity history",
+    "_base_original": "Unlimited activity history"
+  },
+  "pricing:global-pricing-table-1:1:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
+  },
+  "pricing:global-pricing-table-1:1:currency_symbol": {
+    "original": "$",
+    "value": "$",
+    "_base_original": "$"
+  },
+  "pricing:global-pricing-table-1:1:description": {
+    "original": " More collaborative power and unlimited boards for fast-growing. ",
+    "value": " More collaborative power and unlimited boards for fast-growing. ",
+    "_base_original": " More collaborative power and unlimited boards for fast-growing. "
+  },
+  "pricing:global-pricing-table-1:1:discount_price": {
+    "original": "125",
+    "value": "125",
+    "_base_original": "125"
+  },
+  "pricing:global-pricing-table-1:1:price": {
+    "original": "199",
+    "value": "199",
+    "_base_original": "199"
+  },
+  "pricing:global-pricing-table-1:1:tier": {
+    "original": " Pro ",
+    "value": " Pro ",
+    "_base_original": " Pro "
+  },
+  "pricing:global-pricing-table-1:2:0:item": {
+    "original": "1 Email Campaign",
+    "value": "1 Email Campaign",
+    "_base_original": "1 Email Campaign"
+  },
+  "pricing:global-pricing-table-1:2:1:item": {
+    "original": "1 Year Premium Support",
+    "value": "1 Year Premium Support",
+    "_base_original": "1 Year Premium Support"
+  },
+  "pricing:global-pricing-table-1:2:2:item": {
+    "original": "Regular Update for 1 Year",
+    "value": "Regular Update for 1 Year",
+    "_base_original": "Regular Update for 1 Year"
+  },
+  "pricing:global-pricing-table-1:2:3:item": {
+    "original": "90+ Widgets &amp; Extensions",
+    "value": "90+ Widgets &amp; Extensions",
+    "_base_original": "90+ Widgets &amp; Extensions"
+  },
+  "pricing:global-pricing-table-1:2:4:item": {
+    "original": "23+ Templates",
+    "value": "23+ Templates",
+    "_base_original": "23+ Templates"
+  },
+  "pricing:global-pricing-table-1:2:5:item": {
+    "original": "Over 800 Section Blocks",
+    "value": "Over 800 Section Blocks",
+    "_base_original": "Over 800 Section Blocks"
+  },
+  "pricing:global-pricing-table-1:2:6:item": {
+    "original": "Support",
+    "value": "Support",
+    "_base_original": "Support"
+  },
+  "pricing:global-pricing-table-1:2:7:item": {
+    "original": "3 filters",
+    "value": "3 filters",
+    "_base_original": "3 filters"
+  },
+  "pricing:global-pricing-table-1:2:8:item": {
+    "original": "Unlimited activity history",
+    "value": "Unlimited activity history",
+    "_base_original": "Unlimited activity history"
+  },
+  "pricing:global-pricing-table-1:2:button_text": {
+    "original": "Try This Free",
+    "value": "Try This Free",
+    "_base_original": "Try This Free"
+  },
+  "pricing:global-pricing-table-1:2:currency_symbol": {
+    "original": "$",
+    "value": "$",
+    "_base_original": "$"
+  },
+  "pricing:global-pricing-table-1:2:description": {
+    "original": " For starters Includes unlimited members ",
+    "value": " For starters Includes unlimited members ",
+    "_base_original": " For starters Includes unlimited members "
+  },
+  "pricing:global-pricing-table-1:2:discount_price": {
+    "original": "350",
+    "value": "350",
+    "_base_original": "350"
+  },
+  "pricing:global-pricing-table-1:2:price": {
+    "original": "499",
+    "value": "499",
+    "_base_original": "499"
+  },
+  "pricing:global-pricing-table-1:2:tier": {
+    "original": " Business ",
+    "value": " Business ",
+    "_base_original": " Business "
+  },
+  "pricing:global-simple-hero-0:description": {
+    "original": "<p>Sendit is easy to get started and we have a pricing plan for businesses of all sizes.</p>\n",
+    "value": "<p>Sendit is easy to get started and we have a pricing plan for businesses of all sizes.</p>\n",
+    "_base_original": "<p>Sendit is easy to get started and we have a pricing plan for businesses of all sizes.</p>\n"
+  },
+  "pricing:global-simple-hero-0:title": {
+    "original": "A plan for everyone",
+    "value": "A plan for everyone",
+    "_base_original": "A plan for everyone"
+  },
+  "signup:global-signup-0:checkbox_text": {
+    "original": "By registering, you accept our Conditions, Use Policy and Privacy Notice.",
+    "value": "By registering, you accept our Conditions, Use Policy and Privacy Notice.",
+    "_base_original": "By registering, you accept our Conditions, Use Policy and Privacy Notice."
+  },
+  "signup:global-signup-0:email_label": {
+    "original": "Email Address",
+    "value": "Email Address",
+    "_base_original": "Email Address"
+  },
+  "signup:global-signup-0:fullname_label": {
+    "original": "Full Name",
+    "value": "Full Name",
+    "_base_original": "Full Name"
+  },
+  "signup:global-signup-0:log_in_text": {
+    "original": "Log In",
+    "value": "Log In",
+    "_base_original": "Log In"
+  },
+  "signup:global-signup-0:or_divider": {
+    "original": "or",
+    "value": "or",
+    "_base_original": "or"
+  },
+  "signup:global-signup-0:password_label": {
+    "original": "Password",
+    "value": "Password",
+    "_base_original": "Password"
+  },
+  "signup:global-signup-0:retype_password_label": {
+    "original": "Retype Password",
+    "value": "Retype Password",
+    "_base_original": "Retype Password"
+  },
+  "signup:global-signup-0:sign_in_facebook": {
+    "original": "Sign In with Facebook",
+    "value": "Sign In with Facebook",
+    "_base_original": "Sign In with Facebook"
+  },
+  "signup:global-signup-0:sign_in_google": {
+    "original": "Sign In with Google",
+    "value": "Sign In with Google",
+    "_base_original": "Sign In with Google"
+  },
+  "signup:global-signup-0:sign_up_text": {
+    "original": "Create an Account",
+    "value": "Create an Account",
+    "_base_original": "Create an Account"
+  },
+  "signup:global-signup-0:title": {
+    "original": " Create Account ",
+    "value": " Create Account ",
+    "_base_original": " Create Account "
+  },
+  "title": {
+    "original": "Technology",
+    "value": "Technology",
+    "_base_original": "Technology"
+  }
+}
