@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
 
-# https://cloudcannon.com/documentation/articles/extending-your-build-process-with-hooks/#postbuild
-# A script at /.cloudcannon/postbuild which runs after your build is completed successfully before the files are uploaded to CloudCannon servers. Postbuild scripts are useful for augmenting your built output or running postbuild webhooks.
+npx rosey generate --source dist
+npx rosey-cloudcannon-connector write-locales --source rosey --dest dist
+mv ./dist ./_untranslated_site
+npx rosey build --source _untranslated_site --dest dist --default-language-at-root
+cp -r _untranslated_site/_rcc dist/_rcc
