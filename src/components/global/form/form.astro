@@ -51,7 +51,7 @@ const { address, phone, email, form } = Astro.props;
           {address && (
             <div class="space-y-2">
               <h3 class="text-xl font-semibold text-gray-900">
-                <editable-text data-prop="address.heading">{address.heading}</editable-text>
+                <editable-text data-prop="address.heading" data-rosey="address_heading">{address.heading}</editable-text>
               </h3>
               <p 
                 class="inline-flex items-center gap-2 text-gray-600 hover:text-gray-900 transition-colors"
@@ -67,7 +67,7 @@ const { address, phone, email, form } = Astro.props;
                   height={24}
                   class="w-6 h-6"
                 />
-                <editable-text data-prop="address.address">{address.address}</editable-text>
+                <editable-text data-prop="address.address" data-rosey="address_text">{address.address}</editable-text>
               </p>
             </div>
           )}
@@ -75,7 +75,7 @@ const { address, phone, email, form } = Astro.props;
           {phone && (
             <div class="space-y-2">
               <h3 class="text-xl font-semibold text-gray-900">
-                <editable-text data-prop="phone.heading">{phone.heading}</editable-text>
+                <editable-text data-prop="phone.heading" data-rosey="phone_heading">{phone.heading}</editable-text>
               </h3>
               <a 
                 href={`tel:${phone.cell}`}
@@ -92,7 +92,7 @@ const { address, phone, email, form } = Astro.props;
                   height={24}
                   class="w-6 h-6"
                 />
-                <editable-text data-prop="phone.cell">{phone.cell}</editable-text>
+                <editable-text data-prop="phone.cell" data-rosey="phone_cell">{phone.cell}</editable-text>
               </a>
             </div>
           )}
@@ -100,7 +100,7 @@ const { address, phone, email, form } = Astro.props;
           {email && (
             <div class="space-y-2">
               <h3 class="text-xl font-semibold text-gray-900">
-                <editable-text data-prop="email.heading">{email.heading}</editable-text>
+                <editable-text data-prop="email.heading" data-rosey="email_heading">{email.heading}</editable-text>
               </h3>
               <a 
                 href={`mailto:${email.email}`}
@@ -117,7 +117,7 @@ const { address, phone, email, form } = Astro.props;
                   height={24}
                   class="w-6 h-6"
                 />
-                <editable-text data-prop="email.email">{email.email}</editable-text>
+                <editable-text data-prop="email.email" data-rosey="email_text">{email.email}</editable-text>
               </a>
             </div>
           )}
@@ -134,13 +134,13 @@ const { address, phone, email, form } = Astro.props;
             ></div>
             <form method="post" class="space-y-6">
               <h3 class="text-2xl font-bold text-gray-900 mb-8">
-                <editable-text data-prop="form.heading">{form.heading}</editable-text>
+                <editable-text data-prop="form.heading" data-rosey="form_heading">{form.heading}</editable-text>
               </h3>
               
               {form.fullname && (
                 <div class="space-y-2">
                   <label for="Name" class="block text-sm font-medium text-gray-700">
-                    <editable-text data-prop="form.fullname.heading">{form.fullname.heading}</editable-text>
+                    <editable-text data-prop="form.fullname.heading" data-rosey="fullname_label">{form.fullname.heading}</editable-text>
                   </label>
                   <input 
                     type="text" 
@@ -156,7 +156,7 @@ const { address, phone, email, form } = Astro.props;
               {form.phone_number && (
                 <div class="space-y-2">
                   <label for="phone-number" class="block text-sm font-medium text-gray-700">
-                    <editable-text data-prop="form.phone_number.heading">{form.phone_number.heading}</editable-text>
+                    <editable-text data-prop="form.phone_number.heading" data-rosey="phone_number_label">{form.phone_number.heading}</editable-text>
                   </label>
                   <input
                     type="tel"
@@ -172,7 +172,7 @@ const { address, phone, email, form } = Astro.props;
               {form.email && (
                 <div class="space-y-2">
                   <label for="email" class="block text-sm font-medium text-gray-700">
-                    <editable-text data-prop="form.email.heading">{form.email.heading}</editable-text>
+                    <editable-text data-prop="form.email.heading" data-rosey="email_label">{form.email.heading}</editable-text>
                   </label>
                   <input 
                     type="email" 
@@ -188,7 +188,7 @@ const { address, phone, email, form } = Astro.props;
               {form.message && (
                 <div class="space-y-2">
                   <label for="message" class="block text-sm font-medium text-gray-700">
-                    <editable-text data-prop="form.message.heading">{form.message.heading}</editable-text>
+                    <editable-text data-prop="form.message.heading" data-rosey="message_label">{form.message.heading}</editable-text>
                   </label>
                   <textarea
                     class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-primary transition-colors resize-vertical"
@@ -213,6 +213,7 @@ const { address, phone, email, form } = Astro.props;
                     text={form.submit_button.text}
                     data-prop="form.submit_button.text"
                     data-editable="text"
+                    data-rosey="submit_button_text"
                     class="w-full sm:w-auto"
                   />
                 </div>

@@ -31,12 +31,12 @@ export interface Props {
       <div class="w-full">
         <div class="pt-12 pb-9 text-center">
           <Heading level={2} class="text-4xl lg:text-5xl xl:text-6xl font-bold leading-tight mb-6 text-gray-900">
-            <span data-editable="text" data-prop="title">{title}</span>{" "}
-            <span class="text-primary" data-editable="text" data-prop="title_suffix">
+            <span data-editable="text" data-prop="title" data-rosey="title">{title}</span>{" "}
+            <span class="text-primary" data-editable="text" data-prop="title_suffix" data-rosey="title_suffix">
               {title_suffix}
             </span>
           </Heading>
-          <div class="w-3/5 lg:w-4/5 xl:w-3/5 mx-auto text-lg" data-editable="text" data-prop="description" set:html={md.render(description)} />
+          <div class="w-3/5 lg:w-4/5 xl:w-3/5 mx-auto text-lg" data-editable="text" data-prop="description" data-rosey="description" set:html={md.render(description)} />
         </div>
       </div>
       <div class="w-full">
@@ -47,7 +47,7 @@ export interface Props {
               data-editable="array"
               data-prop="numbers">
               {numbers.map((number: CounterNumber, i: number) => (
-                <div class="relative h-full" data-editable="array-item">
+                <div class="relative h-full" data-editable="array-item" data-rosey-ns={String(i)}>
                   <div
                     class={`pt-10 px-8 pb-0 2xl:pt-8 2xl:px-8 xl:pt-8 xl:px-4 xl:pb-7 sm:pt-8 sm:px-0 sm:pb-7`}>
                     <div class=" flex justify-center">
@@ -84,7 +84,7 @@ export interface Props {
                         {number.suffix || ""}
                       </span>
                     </div>
-                    <p class="text-gray-900 text-base mb-0 sm:px-8 sm:pb-0" data-editable="text" data-prop="text">
+                    <p class="text-gray-900 text-base mb-0 sm:px-8 sm:pb-0" data-editable="text" data-prop="text" data-rosey="text">
                       {number.text}
                     </p>
                   </div>

@@ -22,6 +22,7 @@ Object.entries(componentImports).forEach(([path, mod]: [string, any]) => {
 });
 
 const { content_blocks } = Astro.props;
+const roseyRoot = Astro.url.pathname.replace(/^\/|\/$/g, '') || 'index';
 ---
 
 <main
@@ -31,9 +32,10 @@ const { content_blocks } = Astro.props;
   data-prop="content_blocks"
   data-id-key="_name"
   data-component-key="_name"
+  data-rosey-root={roseyRoot}
 >
   {
-    content_blocks.map((block: any) => {
+    content_blocks.map((block: any, i: number) => {
       const key = block._name;
       const Component = components[key];
       if (!Component) {
@@ -41,11 +43,13 @@ const { content_blocks } = Astro.props;
         return null;
       }
       return (
-        <editable-array-item data-id={block._name} data-component={block._name}>
-          <editable-component data-component={block._name} data-prop="">
-            <Component {...block} />
-          </editable-component>
-        </editable-array-item>
+        <div data-rosey-ns={`${key.replace('/', '-')}-${i}`}>
+          <editable-array-item data-id={block._name} data-component={block._name}>
+            <editable-component data-component={block._name} data-prop="">
+              <Component {...block} />
+            </editable-component>
+          </editable-array-item>
+        </div>
       );
     })
   }

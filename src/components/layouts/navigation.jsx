@@ -127,6 +127,7 @@ export default function Navigation({ pageUrl }) {
           className={`mx-auto max-w-[1500px] px-6 pt-8 pb-10 lg:flex lg:px-8 lg:pb-5`}
           role="navigation"
           aria-label="Main navigation"
+          data-rosey-ns="nav"
         >
           <div className=" mx-auto flex items-center justify-between w-full">
             <a
@@ -243,6 +244,7 @@ export default function Navigation({ pageUrl }) {
                       className={`relative w-full grid  ${item.dropdown?.length ? "group" : ""}`}
                       role="none"
                       data-editable="array-item"
+                      data-rosey-ns={String(i)}
                     >
                       {
                         item.dropdown?.length ? (
@@ -285,7 +287,7 @@ export default function Navigation({ pageUrl }) {
                               aria-expanded={openDropdown === i}
                               aria-controls={`dropdown-menu-${i}`}
                             >
-                              <editable-text data-prop="text">
+                              <editable-text data-prop="text" data-rosey="text">
                                 {item.text}
                               </editable-text>
                               <svg
@@ -322,6 +324,7 @@ export default function Navigation({ pageUrl }) {
                                       className=""
                                       role="none"
                                       data-editable="array-item"
+                                      data-rosey-ns={String(j)}
                                     >
                                       <a
                                         data-astro-prefetch
@@ -361,7 +364,7 @@ export default function Navigation({ pageUrl }) {
                                         }}
                                         role="menuitem"
                                       >
-                                        <editable-text data-prop="dropdown_text">
+                                        <editable-text data-prop="dropdown_text" data-rosey="dropdown_text">
                                           {dropdown_item.dropdown_text}
                                         </editable-text>
                                       </a>
@@ -379,7 +382,7 @@ export default function Navigation({ pageUrl }) {
                             onClick={closeMobileMenu}
                             role="menuitem"
                           >
-                            <editable-text data-prop="text">
+                            <editable-text data-prop="text" data-rosey="text">
                               {item.text}
                             </editable-text>
                           </a>
@@ -401,7 +404,7 @@ export default function Navigation({ pageUrl }) {
                         onClick={closeMobileMenu}
                         role="menuitem"
                       >
-                        <editable-text data-prop="nav_btn.text">
+                        <editable-text data-prop="nav_btn.text" data-rosey="nav_btn_text">
                           {navigation.nav_btn?.text}
                         </editable-text>
                       </a>
@@ -417,7 +420,7 @@ export default function Navigation({ pageUrl }) {
                   href={`${navigation.nav_btn?.link}`}
                   className="inline-flex items-center px-6 py-3 text-base font-normal text-primary bg-secondary hover:bg-primary hover:text-secondary  border border-primary rounded-xl transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
                 >
-                  <editable-text data-prop="nav_btn.text">
+                  <editable-text data-prop="nav_btn.text" data-rosey="nav_btn_text">
                     {navigation.nav_btn?.text}
                   </editable-text>
                 </a>

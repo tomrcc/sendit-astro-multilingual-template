@@ -448,6 +448,10 @@ data_config:
     path: data/navigation.json
   theme:
     path: data/theme.json
+  locales_fr:
+    path: rosey/locales/fr.json
+  locales_de:
+    path: rosey/locales/de.json
 timezone: Etc/UTC
 _structures_from_glob:
   - /.cloudcannon/*.cloudcannon.structures.yml

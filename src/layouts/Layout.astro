@@ -72,11 +72,11 @@ const canonicalURL = new URL(seo?.canonical_url ?? Astro.url.pathname, baseUrl);
   </head>
   <body class="min-h-screen flex flex-col bg-white">
     <script>
-      // Lazy load CloudCannon component registration only when in editor mode
       if (window?.inEditorMode) {
         import("../scripts/register-components.ts").catch((error) => {
           console.warn("Failed to load CloudCannon component registration:", error);
         });
+        import("rosey-cloudcannon-connector");
       }
     </script>
     <editable-component data-component="layouts/Navigation" data-prop="@data[navigation]">

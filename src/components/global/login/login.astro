@@ -29,11 +29,11 @@ const { title, fullname, email, checkbox_text, log_in_button, sign_up_button } =
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="max-w-2xl lg:max-w-3xl mx-auto">
       <div class="bg-white rounded-2xl shadow-xl p-8 lg:p-12">
-        <Heading level={2} text={title} data-prop="title" data-editable="text" class="text-center mb-8" />
+        <Heading level={2} text={title} data-prop="title" data-editable="text" data-rosey="title" class="text-center mb-8" />
         <form class="space-y-6">
           <div>
             <label for="fullName" class="block text-sm font-medium text-gray-700 mb-2">
-              <editable-text data-prop="fullname.heading">{fullname.heading}</editable-text>
+              <editable-text data-prop="fullname.heading" data-rosey="fullname_label">{fullname.heading}</editable-text>
             </label>
             <input
               type="text"
@@ -45,7 +45,7 @@ const { title, fullname, email, checkbox_text, log_in_button, sign_up_button } =
 
           <div>
             <label for="pEmailId" class="block text-sm font-medium text-gray-700 mb-2">
-              <editable-text data-prop="email.heading">{email.heading}</editable-text>
+              <editable-text data-prop="email.heading" data-rosey="email_label">{email.heading}</editable-text>
             </label>
             <input
               type="email"
@@ -63,11 +63,11 @@ const { title, fullname, email, checkbox_text, log_in_button, sign_up_button } =
                 id="gridCheck"
               />
               <label class="ml-2 text-sm text-gray-700" for="gridCheck">
-                <editable-text data-prop="checkbox_text">{checkbox_text}</editable-text>
+                <editable-text data-prop="checkbox_text" data-rosey="checkbox_text">{checkbox_text}</editable-text>
               </label>
             </div>
             <div>
-              <a data-astro-prefetch href="#" class="text-sm text-blue-600 hover:text-blue-800 transition-colors"> Forget Password </a>
+              <a data-astro-prefetch href="#" class="text-sm text-blue-600 hover:text-blue-800 transition-colors"><span data-rosey="forget_password"> Forget Password </span></a>
             </div>
           </div>
 
@@ -80,6 +80,7 @@ const { title, fullname, email, checkbox_text, log_in_button, sign_up_button } =
               href={log_in_button.link}
               data-prop="log_in_button.text"
               data-editable="text"
+              data-rosey="log_in_text"
               class="w-full"
             />
           </div>
@@ -89,7 +90,7 @@ const { title, fullname, email, checkbox_text, log_in_button, sign_up_button } =
               <div class="w-full border-t border-gray-300"></div>
             </div>
             <div class="relative flex justify-center text-sm">
-              <span class="px-2 bg-white text-gray-500">or</span>
+              <span class="px-2 bg-white text-gray-500" data-rosey="or_divider">or</span>
             </div>
           </div>
 
@@ -120,7 +121,7 @@ const { title, fullname, email, checkbox_text, log_in_button, sign_up_button } =
                   d="M12.9339 6.08805C13.1513 6.25109 13.4555 6.22932 13.6402 6.03372L15.9657 3.71916C16.0635 3.61053 16.1287 3.46927 16.1178 3.3171C16.1069 3.16494 16.0417 3.01288 15.9222 2.91504C14.2705 1.52417 12.1624 0.727295 10 0.727295V5.11011C11.0649 5.11011 12.0755 5.44697 12.9339 6.08805Z"
                   fill="#EA4335"></path>
               </svg>
-              Sign In with Google
+              <span data-rosey="sign_in_google">Sign In with Google</span>
             </button>
 
             <button
@@ -133,14 +134,14 @@ const { title, fullname, email, checkbox_text, log_in_button, sign_up_button } =
                   d="M11.9 28.9508V19.0996H8.19995V14.6996H12V11.4996C12 7.59961 14.4 5.59961 17.7 5.59961C19.3 5.59961 20.7 5.69961 21.1 5.79961V9.79961H18.7999C16.9 9.69961 16.5 10.5996 16.5 11.7996V14.5996H21L20.4 18.9996H16.5V29.0775C23.6656 28.1463 29.2 22.0195 29.2 14.6C29.2 6.53664 22.6634 0 14.6 0C6.53664 0 0 6.53664 0 14.6C0 21.7409 5.12653 27.6844 11.9 28.9508Z"
                   fill="#1877F2"></path>
               </svg>
-              Sign In with Facebook
+              <span data-rosey="sign_in_facebook">Sign In with Facebook</span>
             </button>
           </div>
 
           <div class="border-t border-gray-200 pt-6 mt-9">
             <div class="text-center">
               <a href={sign_up_button.link} class="text-blue-600 hover:text-blue-800 font-medium transition-colors">
-                <editable-text data-prop="sign_up_button.text">{sign_up_button.text}</editable-text>
+                <editable-text data-prop="sign_up_button.text" data-rosey="sign_up_text">{sign_up_button.text}</editable-text>
               </a>
             </div>
           </div>

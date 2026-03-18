@@ -34,7 +34,7 @@ const { title, description, button, video } = Astro.props;
   <!-- Video Modal -->
   <Modal id="about-video-modal" size={"7xl"} showCloseButton unloadOnClose>
     <div slot="header">
-      <h3 class="text-lg font-semibold text-gray-900">Video Player</h3>
+      <h3 class="text-lg font-semibold text-gray-900" data-rosey="video_player_title">Video Player</h3>
     </div>
 
     <!-- Main content - Vimeo embed -->
@@ -55,12 +55,14 @@ const { title, description, button, video } = Astro.props;
             text={title}
             data-prop="title"
             data-editable="text"
+            data-rosey="title"
             class="mb-6 tracking-tight"
           />
           <div 
             class="text-lg text-gray-600 leading-relaxed mb-8 prose prose-lg max-w-none" 
             data-editable="text" 
             data-prop="description" 
+            data-rosey="description"
             set:html={md.render(description)} 
           />
           {button && (
@@ -71,6 +73,7 @@ const { title, description, button, video } = Astro.props;
               text={button.text}
               data-prop="button.text"
               data-editable="text"
+              data-rosey="button_text"
               class="bg-white text-gray-900 border-2 border-gray-900 hover:bg-gray-900 hover:text-white"
             />
           )}
