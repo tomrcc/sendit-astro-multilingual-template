@@ -298,6 +298,8 @@ _inputs:
       italic: true
       link: true
       removeformat: true
+      resize_style:
+      strike: true
     cascade: true
   seo:
     type: object
